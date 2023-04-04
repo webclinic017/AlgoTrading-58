@@ -17,10 +17,10 @@ class strategyBob1(bt.Strategy):
         if order.status in [order.Submitted, order.Accepted]:
             return
         if order.status in [order.Completed]:
-            if order.isbuy():
-                self.log('BUY EXECUTED {}'.format(order.executed.price))
-            elif order.issell():
-                self.log('SELL EXECUTED {}'.format(order.executed.price))
+            # if order.isbuy():
+            #     self.log('BUY EXECUTED {}'.format(order.executed.price))
+            # elif order.issell():
+            #     self.log('SELL EXECUTED {}'.format(order.executed.price))
             self.bar_executed = len(self)
         self.order = None
 

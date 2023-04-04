@@ -1,23 +1,19 @@
+import yfinance as yf
 import backtrader as bt
+import pandas as pd
 import datetime
 import strategyBob
 import matplotlib
 import AnalyzerSuite as AnalyzerSuite
 
-cash = 100000
-comission = 0.01
 
-
-if __name__ == '__main__':
+def runStrategy(symbol, cash=100000, comission=0.01):
     cerebro = bt.Cerebro()
     cerebro.broker.setcash(cash)
     cerebro.broker.setcommission(comission)
 
-    data = bt.feeds.YahooFinanceCSVData(dataname='BN.TO.csv',
-                                        fromdate=datetime.datetime(
-                                            2009, 12, 2),
-                                        todate=datetime.datetime(2019, 12, 31),
-                                        reverse=False)
+    data = bt.feeds.PandasData(dataname=yf.download(
+        symbol, '2010-01-01', '2020-01-01', auto_adjust=True))
 
     cerebro.adddata(data)
     cerebro.addstrategy(strategyBob.strategyBob1)
@@ -27,6 +23,18 @@ if __name__ == '__main__':
 
     AnalyzerSuite.AnalyzerSuite.defineAnalyzers(AnalyzerSuite, cerebro)
     thestrats = cerebro.run(stdstats=True)
-    print(AnalyzerSuite.AnalyzerSuite.returnAnalyzers(AnalyzerSuite, thestrats))
+    print(AnalyzerSuite.AnalyzerSuite.returnAnalyzers(
+        AnalyzerSuite, thestrats))
     print('Final Portfolio Value: %.2f' % cerebro.broker.getvalue())
-    cerebro.plot()
+    # cerebro.plot()
+
+
+if __name__ == '__main__':
+    list = ['BN.TO', 'TD.TO', 'ENB.TO']
+    list = ['BN.TO', 'BNS.TO']
+    # tickers = pd.read_html(
+    #     'https://en.wikipedia.org/wiki/List_of_S%26P_500_companies')[0]
+    # print(tickers.head())
+    # print(tickers.Symbol.to_list())
+    for stock in list:
+        runStrategy(stock)
