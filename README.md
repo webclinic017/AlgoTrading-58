@@ -7,10 +7,12 @@ As in the testing folder we have sampleList.txt where it stores the list of symb
 There is always the SP500 folder where it inlcude a list of sp500 symbols and a results file that stores the results from the algo
 
 In terms of strategies we have:
-1) Bob/Bob1: 
+1) Average/Bob1: 
   So this strategy takes in weekly, monthly averages and the volume in count to determine when to buy the order 
   As for selling or exiting the market, it will exit once the price hits the buy factor times the price or it had waited too long and auto exits
-2) Average/Bob2:
+2) Period/Bob2:
   This strategy bascially buys once it hits the lowest price of the week and sells when it gets to the highest of the week and the price its profitable
+3) Core/Bob3:
+  This one takes in consideration of both the average and period in factor of entering and exiting the market. 
 
 In the traderMain it has a runstrategy that can take in symbol, printEnable(to enable the printing of the results), plotMode(enable to plot the results for every symbol), starting cash amount, and comission (in percentage)
