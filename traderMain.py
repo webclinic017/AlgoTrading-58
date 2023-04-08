@@ -3,8 +3,8 @@ import yfinance as yf
 import backtrader as bt
 import pandas as pd
 import datetime
-import strategy.strategyBob as strategyBob
 import strategy.strategyAverage as strategyAverage
+import strategy.strategyPeriod as strategyPeriod
 import matplotlib
 import strategy.AnalyzerSuite as AnalyzerSuite
 
@@ -18,8 +18,8 @@ def runStrategy(symbol, printEnable=False, plotMode=False, cash=100000, comissio
         symbol, '2010-01-01', '2020-01-01', auto_adjust=True))
 
     cerebro.adddata(data)
-    # cerebro.addstrategy(strategyBob.strategyBob1)
-    cerebro.addstrategy(strategyAverage.strategyBob2)
+    # cerebro.addstrategy(strategyAverage.strategyBob1)
+    cerebro.addstrategy(strategyPeriod.strategyBob2)
 
     if(printEnable):
         print('Starting Portfolio Value: %.2f' % cerebro.broker.getvalue())
@@ -45,17 +45,17 @@ if __name__ == '__main__':
     start = time.time()
     list = ['BN.TO', 'TD.TO', 'ENB.TO', 'BNS.TO']
     list = ['DELL']
-    readFile = open("./testing/sample/sampleList.txt", "r")
-    #list = readFile.read().split('\n')
+    readFile = open("./testing/sp500/sp500.txt", "r")
+    list = readFile.read().split('\n')
     readFile.close()
 
-    writeFile = open("./testing/sample/resultSample.txt", "a")
+    writeFile = open("./testing/sp500/results.txt", "a")
 
     count = 1
     for stock in list:
         print(str(count)+"/"+str(len(list)))
         try:
-            result = runStrategy(stock, True, True)
+            result = runStrategy(stock)
             if(result['DrawDown'] < 30 and result['Sharpe Ratio:'] > 1):
                 writeFile.write("Positive: "+str(stock)+" : "+str(result)+"\n")
             else:

@@ -1,7 +1,7 @@
 import backtrader as bt
 
 
-class strategyBob2(bt.Strategy):
+class strategyBob1(bt.Strategy):
 
     def log(self, txt, dt=None):
         ''' Logging function fot this strategy'''
@@ -24,12 +24,13 @@ class strategyBob2(bt.Strategy):
             self.bar_executed = len(self)
         self.order = None
 
-    def highest(self, num):
-        highestPrice = self.dataclose[0]
-        for i in range(num):
-            if(self.dataclose[-i] > highestPrice):
-                highestPrice = self.dataclose[-i]
-        return highestPrice
+    def delta(self, amount):
+        total = 0
+        for i in range(amount):
+            total += self.dataclose[-i]
+        average = total/amount
+        change = ((self.dataclose[0]-average)/average)*100
+        return change
 
     def lowest(self, num):
         lowestPrice = self.dataclose[0]
@@ -44,11 +45,22 @@ class strategyBob2(bt.Strategy):
         if self.order:
             return
 
-        days = 5
+        yearChange = self.delta(252)
+        monthChange = self.delta(20)
+        weekChange = self.delta(5)
+
+        total = 0
+        for i in range(5):
+            total += self.data.volume[-i]
+        weekAveV = total/5
+        weekChangeV = ((self.data.volume[0]-weekAveV)/weekAveV)*100
+
         if not self.position:
-            if(self.dataclose[0] <= self.lowest(days)):
-                temp = int(self.broker.get_cash()/self.dataclose[0])
-                self.order = self.buy(size=temp-100)
+            if(weekChange < -2 and monthChange < 10):
+                self.order = self.buy(size=2000)
         else:
-            if(self.dataclose[0] > self.position.price*1.1 and self.dataclose[0] >= self.highest(days)):
+            if(self.dataclose[0] > self.position.price*1.1):
+                self.order = self.sell(size=self.position.size)
+            # elif(len(self) >= (self.bar_executed + 200)):
+            elif(self.dataclose[0] > self.position.price*1 and self.dataclose[0] < self.position.price*0.8):
                 self.order = self.sell(size=self.position.size)
