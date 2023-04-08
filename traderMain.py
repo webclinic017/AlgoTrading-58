@@ -5,6 +5,7 @@ import pandas as pd
 import datetime
 import strategy.strategyAverage as strategyAverage
 import strategy.strategyPeriod as strategyPeriod
+import strategy.core as core
 import matplotlib
 import strategy.AnalyzerSuite as AnalyzerSuite
 
@@ -19,7 +20,8 @@ def runStrategy(symbol, printEnable=False, plotMode=False, cash=100000, comissio
 
     cerebro.adddata(data)
     # cerebro.addstrategy(strategyAverage.strategyBob1)
-    cerebro.addstrategy(strategyPeriod.strategyBob2)
+    # cerebro.addstrategy(strategyPeriod.strategyBob2)
+    cerebro.addstrategy(core.strategyBob3)
 
     if(printEnable):
         print('Starting Portfolio Value: %.2f' % cerebro.broker.getvalue())
@@ -44,27 +46,46 @@ def runStrategy(symbol, printEnable=False, plotMode=False, cash=100000, comissio
 if __name__ == '__main__':
     start = time.time()
     list = ['BN.TO', 'TD.TO', 'ENB.TO', 'BNS.TO']
-    list = ['DELL']
+    #list = ['RY']
     readFile = open("./testing/sp500/sp500.txt", "r")
+    #readFile = open("./testing/sample/sampleList.txt", "r")
     list = readFile.read().split('\n')
     readFile.close()
 
-    writeFile = open("./testing/sp500/results.txt", "a")
+    writeFile = open("./testing/sp500/results3.txt", "a")
+    #writeFile = open("./testing/sample/resultSample.txt", "a")
 
     count = 1
+
+    lowest = 100000
+    highest = 100000
+    lowSym = "None"
+    highSym = "None"
+
     for stock in list:
         print(str(count)+"/"+str(len(list)))
         try:
-            result = runStrategy(stock)
+            result = runStrategy(stock)  # , True, True)
             if(result['DrawDown'] < 30 and result['Sharpe Ratio:'] > 1):
                 writeFile.write("Positive: "+str(stock)+" : "+str(result)+"\n")
+            elif(result['Returns:'] < 0):
+                writeFile.write("Negative: "+str(stock)+" : "+str(result)+"\n")
             else:
                 writeFile.write("Netural: "+str(stock)+" : "+str(result)+"\n")
+            if(result['Final Value'] < lowest):
+                lowest = result['Final Value']
+                lowSym = stock
+            if(result['Final Value'] > highest):
+                highest = result['Final Value']
+                highSym = stock
         except:
-            writeFile.write("Negative: "+str(stock)+" : " +
+            writeFile.write("Error: "+str(stock)+" : " +
                             "Blame Jimmy for not fixing these errors"+"\n")
             print("Jimmy is too lazy to fix this")
         count += 1
     writeFile.close()
+    print("Highest: "+str(highSym)+" with: "+str(highest))
+    print("Lowest: "+str(lowSym)+" with: "+str(lowest))
     end = time.time()
+    print("*********************Finish run*********************")
     print(end - start)
