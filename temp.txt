@@ -5,3 +5,11 @@
     #                                     reverse=False)
 
     and weekChangeV < 10
+
+        #list = ['TD.TO']
+    # tickers = pd.read_html(
+    #     'https://en.wikipedia.org/wiki/List_of_S%26P_500_companies')[0]
+    # print(tickers.head())
+    # print(tickers.Symbol.to_list())
+
+    950.8994107246399

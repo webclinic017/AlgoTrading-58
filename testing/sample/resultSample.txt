@@ -1,0 +1,15 @@
+Netural: BN.TO : {'DrawDown': 20.33621276866189, 'Sharpe Ratio:': 0.8480129547346487, 'Returns:': 11.705519976090944, 'Final Value': 300924.17366141494}
+Positive: TD.TO : {'DrawDown': 19.361627658130647, 'Sharpe Ratio:': 1.167671862451437, 'Returns:': 9.643531745762338, 'Final Value': 249992.05644316177}
+Netural: ENB.TO : {'DrawDown': 35.96068771040792, 'Sharpe Ratio:': 0.6161331149844965, 'Returns:': 10.856152071881702, 'Final Value': 278911.6007238635}
+Netural: BNS.TO : {'DrawDown': 25.018132968349704, 'Sharpe Ratio:': 0.42308709111505455, 'Returns:': 6.040894833520367, 'Final Value': 179275.44976426658}
+Netural: MMM : {'DrawDown': 34.30851287132416, 'Sharpe Ratio:': 0.48180614028920077, 'Returns:': 7.704623836500672, 'Final Value': 209812.72599666714}
+Negative: ACE : Blame Jimmy for not fixing these errors
+Netural: ABT : {'DrawDown': 27.761577164640364, 'Sharpe Ratio:': 0.8313255827960714, 'Returns:': 13.13549388002315, 'Final Value': 342876.7164693373}
+Netural: ANF : {'DrawDown': 84.59463208177705, 'Sharpe Ratio:': -0.0743463746482828, 'Returns:': -5.726507209584522, 'Final Value': 55501.21521946632}
+Positive: ACN : {'DrawDown': 24.037267753669337, 'Sharpe Ratio:': 1.2890029765473026, 'Returns:': 16.356497649077316, 'Final Value': 453797.50986438175}
+Netural: ADBE : {'DrawDown': 38.67519998428367, 'Sharpe Ratio:': 0.9808323263324348, 'Returns:': 20.758448264374536, 'Final Value': 657468.5137599562}
+Netural: AMD : {'DrawDown': 48.603126949532616, 'Sharpe Ratio:': 0.3247218555473919, 'Returns:': 8.872052571295281, 'Final Value': 233656.64311084748}
+Netural: AES : {'DrawDown': 42.84927781668168, 'Sharpe Ratio:': 0.2798268658321635, 'Returns:': 4.880889040123513, 'Final Value': 160929.2869528232}
+Positive: DELL : {'DrawDown': 27.025054015081565, 'Sharpe Ratio:': 2.0119137901504374, 'Returns:': 23.979548059287744, 'Final Value': 206300.72772885082}
+Positive: DELL : {'DrawDown': 27.025053618441113, 'Sharpe Ratio:': 2.011913438449768, 'Returns:': 23.979541099898498, 'Final Value': 206300.68871408908}
+Positive: DELL : {'DrawDown': 27.025053618441113, 'Sharpe Ratio:': 2.011913438449768, 'Returns:': 23.979541099898498, 'Final Value': 206300.68871408908}
