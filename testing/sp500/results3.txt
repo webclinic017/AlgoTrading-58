@@ -1,500 +1,500 @@
-Netural: MMM : {'DrawDown': 36.38280362106476, 'Sharpe Ratio:': 0.4876428639141639, 'Returns:': 8.09719578586872, 'Final Value': 217574.27303034478}
-Netural: ACE : {'DrawDown': 15.94797078402454, 'Sharpe Ratio:': 0.15017612527187582, 'Returns:': 5.1015020422666115, 'Final Value': 103904.7592714405}
-Netural: ABT : {'DrawDown': 27.76396885689492, 'Sharpe Ratio:': 0.835490742436346, 'Returns:': 13.240202226891595, 'Final Value': 346058.2519638096}
-Negative: ANF : {'DrawDown': 85.54125132526663, 'Sharpe Ratio:': -0.06875339325530223, 'Returns:': -5.923811291605182, 'Final Value': 54352.32205377648}
-Positive: ACN : {'DrawDown': 24.371822620371084, 'Sharpe Ratio:': 1.1220617725434314, 'Returns:': 17.107667278737512, 'Final Value': 483910.0541413854}
-Netural: ADBE : {'DrawDown': 39.3553042099402, 'Sharpe Ratio:': 0.980823970349198, 'Returns:': 20.801385956474093, 'Final Value': 659806.2741659546}
-Netural: AMD : {'DrawDown': 83.30935115058121, 'Sharpe Ratio:': 0.36800218098395826, 'Returns:': 12.04780872704972, 'Final Value': 311350.4486841584}
-Netural: AES : {'DrawDown': 42.65496258887538, 'Sharpe Ratio:': 0.2594134911329094, 'Returns:': 4.361559694512612, 'Final Value': 153147.9951693624}
-Positive: AET : {'DrawDown': 28.91500830203291, 'Sharpe Ratio:': 1.2455730554013844, 'Returns:': 21.64044481558865, 'Final Value': 572267.8261349169}
-Netural: AFL : {'DrawDown': 45.76728839584807, 'Sharpe Ratio:': 0.5859371566769144, 'Returns:': 8.076557771529602, 'Final Value': 217159.89312655717}
-Netural: A : {'DrawDown': 43.541310027195145, 'Sharpe Ratio:': 0.681543820248889, 'Returns:': 11.001586812707766, 'Final Value': 283512.59789954213}
-Netural: GAS : {'DrawDown': 67.699657638628, 'Sharpe Ratio:': 0.4539448951049522, 'Returns:': 10.962096635102347, 'Final Value': 218538.0}
-Netural: APD : {'DrawDown': 24.746295096195137, 'Sharpe Ratio:': 0.8365717263346409, 'Returns:': 11.261787568947849, 'Final Value': 290218.2242578507}
+Netural: MMM : {'DrawDown': 35.825046298770594, 'Sharpe Ratio:': 0.556128207982045, 'Returns:': 9.723511964108631, 'Final Value': 252555.78459292743}
+Netural: ACE : {'DrawDown': 14.245297197155448, 'Sharpe Ratio:': 0.2665591488492465, 'Returns:': 8.497461364945911, 'Final Value': 106479.85519417166}
+Netural: ABT : {'DrawDown': 27.84397344036014, 'Sharpe Ratio:': 0.8443042898394068, 'Returns:': 14.917371638796299, 'Final Value': 400772.89402297005}
+Negative: ANF : {'DrawDown': 84.24713702317702, 'Sharpe Ratio:': -0.1872417403616114, 'Returns:': -7.618340059202727, 'Final Value': 45331.89486492698}
+Positive: ACN : {'DrawDown': 22.300678485842923, 'Sharpe Ratio:': 1.1867987299368263, 'Returns:': 15.831104710188646, 'Final Value': 433749.3979554581}
+Netural: ADBE : {'DrawDown': 39.3553042099402, 'Sharpe Ratio:': 1.0007217336538945, 'Returns:': 20.143930614326763, 'Final Value': 624817.5983324815}
+Netural: AMD : {'DrawDown': 83.30935115058121, 'Sharpe Ratio:': 0.35107025888362514, 'Returns:': 10.429836108904219, 'Final Value': 269265.2843928528}
+Netural: AES : {'DrawDown': 42.7199172480973, 'Sharpe Ratio:': 0.2746892220627064, 'Returns:': 4.850535663891022, 'Final Value': 160464.88793140292}
+Positive: AET : {'DrawDown': 28.886787443086142, 'Sharpe Ratio:': 1.3702260027138093, 'Returns:': 19.314885229693527, 'Final Value': 481889.4297719199}
+Netural: AFL : {'DrawDown': 45.332778310817865, 'Sharpe Ratio:': 0.540025576562362, 'Returns:': 8.060183119489372, 'Final Value': 216831.6204525471}
+Netural: A : {'DrawDown': 43.55914767165569, 'Sharpe Ratio:': 0.593213287013862, 'Returns:': 9.226649657889494, 'Final Value': 241366.9126937609}
+Netural: GAS : {'DrawDown': 41.172737768925, 'Sharpe Ratio:': 0.5229611990932593, 'Returns:': 9.375402065883206, 'Final Value': 196117.0}
+Netural: APD : {'DrawDown': 24.105110298571205, 'Sharpe Ratio:': 0.8676104151432968, 'Returns:': 10.580966727298772, 'Final Value': 272967.21194095456}
 Error: ARG : Blame Jimmy for not fixing these errors
-Netural: AKAM : {'DrawDown': 65.3224113131226, 'Sharpe Ratio:': 0.43345660809066067, 'Returns:': 8.329570047809565, 'Final Value': 222289.34936300275}
-Negative: AA : {'DrawDown': 68.1084139729706, 'Sharpe Ratio:': 0.04968453931946365, 'Returns:': -3.2072155506370157, 'Final Value': 72219.51190612013}
+Netural: AKAM : {'DrawDown': 63.877345808498575, 'Sharpe Ratio:': 0.449184229526059, 'Returns:': 10.938435797578753, 'Final Value': 281906.3078270722}
+Negative: AA : {'DrawDown': 68.37118184901374, 'Sharpe Ratio:': 0.08271824082572202, 'Returns:': -2.4429132175370643, 'Final Value': 78119.36881514224}
 Error: ALXN : Blame Jimmy for not fixing these errors
-Negative: ATI : {'DrawDown': 87.29840293548487, 'Sharpe Ratio:': -0.038212079166393915, 'Returns:': -6.835584749281715, 'Final Value': 49316.09933853801}
+Negative: ATI : {'DrawDown': 85.94009750043934, 'Sharpe Ratio:': -0.07124459638794477, 'Returns:': -7.464746086670572, 'Final Value': 46090.03266406316}
 Error: AGN : Blame Jimmy for not fixing these errors
-Netural: ALL : {'DrawDown': 32.299645430090045, 'Sharpe Ratio:': 0.6419281380430291, 'Returns:': 12.709503670228708, 'Final Value': 330202.6868341509}
+Netural: ALL : {'DrawDown': 29.628546319107368, 'Sharpe Ratio:': 0.6701707776799015, 'Returns:': 12.607703302003955, 'Final Value': 327237.0489627703}
 Negative: ANR : {'DrawDown': 47.529906081255824, 'Sharpe Ratio:': None, 'Returns:': -51.59381884628742, 'Final Value': 52470.093918744176}
-Netural: ALTR : {'DrawDown': 41.1573594398572, 'Sharpe Ratio:': 1.2876212806913916, 'Returns:': 20.511352570250374, 'Final Value': 149595.14626695638}
-Netural: MO : {'DrawDown': 41.16605419836736, 'Sharpe Ratio:': 0.6744513062140821, 'Returns:': 9.478432073737943, 'Final Value': 246979.79517239716}
-Netural: AMZN : {'DrawDown': 33.91733384181696, 'Sharpe Ratio:': 0.9490189049206154, 'Returns:': 25.200561913105364, 'Final Value': 943003.8685428239}
-Positive: AEE : {'DrawDown': 18.57958883487589, 'Sharpe Ratio:': 1.2352981379159005, 'Returns:': 12.79038730643031, 'Final Value': 332576.1978562825}
-Positive: AEP : {'DrawDown': 17.399397575594794, 'Sharpe Ratio:': 1.1610098169646728, 'Returns:': 12.484428217798293, 'Final Value': 323677.9090810074}
-Netural: AXP : {'DrawDown': 44.92068866429365, 'Sharpe Ratio:': 0.6104792365596328, 'Returns:': 10.367930283328572, 'Final Value': 267761.9964807551}
-Netural: AIG : {'DrawDown': 59.55729664193279, 'Sharpe Ratio:': 0.38147962870147584, 'Returns:': 8.858575610503237, 'Final Value': 233368.0258492019}
-Positive: AMT : {'DrawDown': 19.310393879086515, 'Sharpe Ratio:': 1.381910167547263, 'Returns:': 16.306027457080546, 'Final Value': 451836.0904463504}
-Netural: AMP : {'DrawDown': 44.04432945533274, 'Sharpe Ratio:': 0.576971361558585, 'Returns:': 15.198923628624753, 'Final Value': 410684.99979448336}
-Netural: ABC : {'DrawDown': 38.342258924953065, 'Sharpe Ratio:': 0.5512922496110839, 'Returns:': 9.469800229514863, 'Final Value': 246785.44150723802}
-Positive: AMGN : {'DrawDown': 22.92550638265446, 'Sharpe Ratio:': 1.0522852328814207, 'Returns:': 13.353525324853777, 'Final Value': 349531.4554220222}
-Netural: APH : {'DrawDown': 31.631005825315842, 'Sharpe Ratio:': 0.8150392809516769, 'Returns:': 14.390103660052652, 'Final Value': 382787.48879385286}
+Netural: ALTR : {'DrawDown': 41.13767831933512, 'Sharpe Ratio:': 1.623619788687282, 'Returns:': 29.847757205340358, 'Final Value': 175741.51826749797}
+Netural: MO : {'DrawDown': 40.75054182322399, 'Sharpe Ratio:': 0.7384549979629392, 'Returns:': 10.553351414796529, 'Final Value': 272287.37772505486}
+Netural: AMZN : {'DrawDown': 33.08347605846916, 'Sharpe Ratio:': 1.0151176396323458, 'Returns:': 21.162825193708734, 'Final Value': 679783.4546193694}
+Positive: AEE : {'DrawDown': 17.541931463992512, 'Sharpe Ratio:': 1.2798701215403971, 'Returns:': 12.30267483002474, 'Final Value': 318493.9312180073}
+Positive: AEP : {'DrawDown': 17.40050828773508, 'Sharpe Ratio:': 1.0403334132197972, 'Returns:': 12.425100201769359, 'Final Value': 321977.46699982556}
+Netural: AXP : {'DrawDown': 44.862846758915154, 'Sharpe Ratio:': 0.5731948140789843, 'Returns:': 10.036404018475187, 'Final Value': 259839.14864754898}
+Netural: AIG : {'DrawDown': 56.78154032225206, 'Sharpe Ratio:': 0.32096610007370463, 'Returns:': 5.928623870336329, 'Final Value': 177719.98444653777}
+Positive: AMT : {'DrawDown': 19.055025418212914, 'Sharpe Ratio:': 1.1983770620828098, 'Returns:': 16.061908228644658, 'Final Value': 442456.1606988278}
+Netural: AMP : {'DrawDown': 44.04773719670822, 'Sharpe Ratio:': 0.5546001213523348, 'Returns:': 13.984361922633356, 'Final Value': 369445.5316803673}
+Netural: ABC : {'DrawDown': 38.6657833068629, 'Sharpe Ratio:': 0.48307893018124376, 'Returns:': 8.09614108964441, 'Final Value': 217553.07909690484}
+Positive: AMGN : {'DrawDown': 24.5551785749332, 'Sharpe Ratio:': 1.0209579125695574, 'Returns:': 11.141295823643631, 'Final Value': 287095.49543006305}
+Netural: APH : {'DrawDown': 31.72689771058978, 'Sharpe Ratio:': 0.8517371603889912, 'Returns:': 16.081229356168535, 'Final Value': 443192.1099928186}
 Error: APC : Blame Jimmy for not fixing these errors
-Positive: ADI : {'DrawDown': 28.373620351829928, 'Sharpe Ratio:': 1.054571300034243, 'Returns:': 14.480937630556998, 'Final Value': 385833.1200691495}
-Netural: AON : {'DrawDown': 25.59994775799956, 'Sharpe Ratio:': 0.9720691830832573, 'Returns:': 14.504543973919834, 'Final Value': 386628.1938919871}
-Negative: APA : {'DrawDown': 83.0527402601488, 'Sharpe Ratio:': -0.40988483042223606, 'Returns:': -11.674543438726971, 'Final Value': 28954.40799048884}
-Netural: AIV : {'DrawDown': 26.248381008000088, 'Sharpe Ratio:': 0.7245370909032149, 'Returns:': 12.895177119762325, 'Final Value': 335674.055336209}
+Netural: ADI : {'DrawDown': 28.38746598338914, 'Sharpe Ratio:': 0.9914938623047962, 'Returns:': 16.3580447950603, 'Final Value': 453857.75733218336}
+Positive: AON : {'DrawDown': 25.1704636379456, 'Sharpe Ratio:': 1.0919914020742048, 'Returns:': 15.675344909875285, 'Final Value': 427961.01498266286}
+Negative: APA : {'DrawDown': 83.58248580496024, 'Sharpe Ratio:': -0.37912889494983193, 'Returns:': -11.72548521827074, 'Final Value': 28788.10957710437}
+Netural: AIV : {'DrawDown': 24.13772423151818, 'Sharpe Ratio:': 0.7723590200527475, 'Returns:': 13.288889235757296, 'Final Value': 347546.62119290204}
 Error: APOL : Blame Jimmy for not fixing these errors
-Netural: AAPL : {'DrawDown': 43.51554225282749, 'Sharpe Ratio:': 0.7770619580491903, 'Returns:': 16.219556608508675, 'Final Value': 448493.3048113}
-Netural: AMAT : {'DrawDown': 50.58121687464832, 'Sharpe Ratio:': 0.5366958636535363, 'Returns:': 15.325187490043103, 'Final Value': 415201.36253389745}
-Netural: ADM : {'DrawDown': 41.61060705259036, 'Sharpe Ratio:': 0.2830935505669801, 'Returns:': 5.038314609376596, 'Final Value': 163357.31765198422}
-Netural: AIZ : {'DrawDown': 24.85610593647463, 'Sharpe Ratio:': 0.6177454635102084, 'Returns:': 14.261173616921743, 'Final Value': 378501.65144993895}
-Netural: T : {'DrawDown': 26.811123628038445, 'Sharpe Ratio:': 0.5171723398908369, 'Returns:': 8.328532433880675, 'Final Value': 222268.09251641436}
-Netural: ADSK : {'DrawDown': 48.352551449620506, 'Sharpe Ratio:': 1.022067553523881, 'Returns:': 16.37373609191046, 'Final Value': 454469.19949096686}
-Positive: ADP : {'DrawDown': 19.014432309113708, 'Sharpe Ratio:': 1.1667730902563194, 'Returns:': 14.683496679093746, 'Final Value': 392703.5264507637}
-Netural: AN : {'DrawDown': 49.84849756592022, 'Sharpe Ratio:': 0.3972167207278205, 'Returns:': 7.317054715504921, 'Final Value': 202395.4035455513}
-Netural: AZO : {'DrawDown': 39.260060537066956, 'Sharpe Ratio:': 1.0813422413371987, 'Returns:': 15.726439653152816, 'Final Value': 429852.10237838747}
-Netural: AVB : {'DrawDown': 20.7895997388587, 'Sharpe Ratio:': 0.7458208854954882, 'Returns:': 10.681728967920286, 'Final Value': 275460.75195260864}
-Netural: AVY : {'DrawDown': 43.329397909908465, 'Sharpe Ratio:': 0.5511734668486552, 'Returns:': 11.763396168955165, 'Final Value': 303549.30477463454}
+Netural: AAPL : {'DrawDown': 43.76262562952023, 'Sharpe Ratio:': 0.7916104862760293, 'Returns:': 17.730635293855883, 'Final Value': 510234.29442661075}
+Netural: AMAT : {'DrawDown': 51.03912481713976, 'Sharpe Ratio:': 0.5128930604912598, 'Returns:': 15.394614150052316, 'Final Value': 417703.6990106418}
+Netural: ADM : {'DrawDown': 41.50883557128038, 'Sharpe Ratio:': 0.28408980611967405, 'Returns:': 5.129344131155396, 'Final Value': 164776.2918770704}
+Netural: AIZ : {'DrawDown': 24.41729328366376, 'Sharpe Ratio:': 0.6920311859184567, 'Returns:': 14.094377373933481, 'Final Value': 373021.16215074685}
+Netural: T : {'DrawDown': 26.907130467353976, 'Sharpe Ratio:': 0.4689595210176455, 'Returns:': 7.482530255038047, 'Final Value': 205532.9187930832}
+Netural: ADSK : {'DrawDown': 48.4222337677803, 'Sharpe Ratio:': 1.114526013534242, 'Returns:': 22.277753413145334, 'Final Value': 744882.9638282967}
+Positive: ADP : {'DrawDown': 18.392417174368333, 'Sharpe Ratio:': 1.8130303267545247, 'Returns:': 16.481274520284337, 'Final Value': 458679.6320402774}
+Netural: AN : {'DrawDown': 49.83472519406943, 'Sharpe Ratio:': 0.4745879663878146, 'Returns:': 8.79257913978482, 'Final Value': 231959.29808746334}
+Netural: AZO : {'DrawDown': 39.001593258389626, 'Sharpe Ratio:': 0.983344935865073, 'Returns:': 14.553669353692984, 'Final Value': 388287.4901806641}
+Netural: AVB : {'DrawDown': 20.44387035151893, 'Sharpe Ratio:': 0.7483695632483784, 'Returns:': 12.351051631445502, 'Final Value': 319866.3885148131}
+Netural: AVY : {'DrawDown': 43.22487473352382, 'Sharpe Ratio:': 0.4711713529074931, 'Returns:': 9.615975289063156, 'Final Value': 250095.34275385865}
 Error: AVP : Blame Jimmy for not fixing these errors
-Negative: BHI : {'DrawDown': 24.749180010750564, 'Sharpe Ratio:': -0.22470331021287884, 'Returns:': -3.9703050341648325, 'Final Value': 96929.29763185336}
+Netural: BHI : {'DrawDown': 19.70235626422602, 'Sharpe Ratio:': 0.3238327457498449, 'Returns:': 12.823827709591429, 'Final Value': 109733.77537001806}
 Error: BLL : Blame Jimmy for not fixing these errors
-Netural: BAC : {'DrawDown': 71.06053789505424, 'Sharpe Ratio:': 0.33721126281077657, 'Returns:': 6.880849867277401, 'Final Value': 194330.181370054}
-Netural: BK : {'DrawDown': 44.36959223658505, 'Sharpe Ratio:': 0.41424293047655186, 'Returns:': 6.976361720296835, 'Final Value': 196070.99281240272}
+Netural: BAC : {'DrawDown': 73.77342572498542, 'Sharpe Ratio:': 0.3258430906019558, 'Returns:': 6.548476406228108, 'Final Value': 188380.16849439044}
+Netural: BK : {'DrawDown': 45.81264023244457, 'Sharpe Ratio:': 0.315139888680906, 'Returns:': 5.014118379769716, 'Final Value': 162981.99974304522}
 Error: BCR : Blame Jimmy for not fixing these errors
-Netural: BAX : {'DrawDown': 33.452453470330184, 'Sharpe Ratio:': 0.5877763682004776, 'Returns:': 8.972068387145248, 'Final Value': 235808.59900819493}
+Netural: BAX : {'DrawDown': 33.45247291267916, 'Sharpe Ratio:': 0.6883972319958466, 'Returns:': 9.79072003905649, 'Final Value': 254104.54569367194}
 Error: BBT : Blame Jimmy for not fixing these errors
 Error: BEAM : Blame Jimmy for not fixing these errors
-Positive: BDX : {'DrawDown': 20.459764798415613, 'Sharpe Ratio:': 1.0202491059253462, 'Returns:': 12.593319265023462, 'Final Value': 326819.9529197286}
-Negative: BBBY : {'DrawDown': 88.54418728146405, 'Sharpe Ratio:': -0.11418350372114235, 'Returns:': -7.975562076556107, 'Final Value': 43611.86915836059}
-Netural: BMS : {'DrawDown': 20.090272130110087, 'Sharpe Ratio:': 0.6778228832087574, 'Returns:': 6.572214671652968, 'Final Value': 182147.8067412508}
+Positive: BDX : {'DrawDown': 20.459758633453355, 'Sharpe Ratio:': 1.17545761216718, 'Returns:': 12.249408322685778, 'Final Value': 316988.8836178513}
+Negative: BBBY : {'DrawDown': 88.555170118424, 'Sharpe Ratio:': -0.11754173796418287, 'Returns:': -8.230280157474516, 'Final Value': 42421.51082787772}
+Netural: BMS : {'DrawDown': 20.023536488237358, 'Sharpe Ratio:': 0.8296026966249787, 'Returns:': 6.21963437318297, 'Final Value': 176549.24894694812}
 Error: BRK.B : Blame Jimmy for not fixing these errors
-Netural: BBY : {'DrawDown': 73.90577684023727, 'Sharpe Ratio:': 0.31443715607497225, 'Returns:': 8.581762165603624, 'Final Value': 227510.4164989211}
-Netural: BIG : {'DrawDown': 65.86629805060322, 'Sharpe Ratio:': 0.08435973163036029, 'Returns:': 0.043803698757676264, 'Final Value': 100438.20324760897}
-Netural: BIIB : {'DrawDown': 50.42109588586337, 'Sharpe Ratio:': 0.5869714628319274, 'Returns:': 14.231786634156892, 'Final Value': 377530.8453487777}
-Netural: BLK : {'DrawDown': 41.54204517247846, 'Sharpe Ratio:': 0.42991270132049414, 'Returns:': 8.228857825210618, 'Final Value': 220234.6375713429}
-Netural: HRB : {'DrawDown': 52.19825096204172, 'Sharpe Ratio:': 0.18436080040012662, 'Returns:': 2.0730823850546103, 'Final Value': 122735.68451811433}
-Netural: BMC : {'DrawDown': 94.97951715239505, 'Sharpe Ratio:': 0.3537955478913065, 'Returns:': 24.75656534351404, 'Final Value': 528620.5}
-Netural: BA : {'DrawDown': 28.55440806346467, 'Sharpe Ratio:': 0.7004765945245305, 'Returns:': 13.868800206910198, 'Final Value': 365722.88189011253}
-Netural: BWA : {'DrawDown': 57.43290485656768, 'Sharpe Ratio:': 0.36444027115771466, 'Returns:': 8.60114855133199, 'Final Value': 227916.2983989767}
-Netural: BXP : {'DrawDown': 24.050793489796042, 'Sharpe Ratio:': 0.6551703378537151, 'Returns:': 8.504838954467832, 'Final Value': 225906.32094041503}
-Netural: BSX : {'DrawDown': 47.76747783165009, 'Sharpe Ratio:': 0.4783105710091562, 'Returns:': 12.193370456942072, 'Final Value': 315412.4418738937}
-Netural: BMY : {'DrawDown': 38.81528697299504, 'Sharpe Ratio:': 0.5932030714787669, 'Returns:': 11.046834566166757, 'Final Value': 284668.5655110752}
+Netural: BBY : {'DrawDown': 73.65388958261785, 'Sharpe Ratio:': 0.3304863750302096, 'Returns:': 9.843208723493074, 'Final Value': 255320.0470412547}
+Netural: BIG : {'DrawDown': 65.25943785589261, 'Sharpe Ratio:': 0.14049390265923847, 'Returns:': 1.1182460497409257, 'Final Value': 111742.56087857936}
+Netural: BIIB : {'DrawDown': 50.443367102924576, 'Sharpe Ratio:': 0.6005089947863448, 'Returns:': 11.939997356549721, 'Final Value': 308372.3133792877}
+Netural: BLK : {'DrawDown': 41.542049565227714, 'Sharpe Ratio:': 0.491482697748403, 'Returns:': 9.725536753566022, 'Final Value': 252602.32000759247}
+Netural: HRB : {'DrawDown': 52.19824833597763, 'Sharpe Ratio:': 0.14897065179825397, 'Returns:': 1.2275944561941758, 'Final Value': 112954.89479699639}
+Netural: BMC : {'DrawDown': 94.40922744035893, 'Sharpe Ratio:': 0.35463664776224285, 'Returns:': 25.31397438484792, 'Final Value': 546661.5}
+Positive: BA : {'DrawDown': 28.223961937283846, 'Sharpe Ratio:': 1.4153291397290066, 'Returns:': 12.033992561737547, 'Final Value': 310967.35657851544}
+Netural: BWA : {'DrawDown': 57.21926557724803, 'Sharpe Ratio:': 0.3771153101358897,'Returns:': 7.706378738241007, 'Final Value': 209846.86038821863}
+Netural: BXP : {'DrawDown': 24.053804253051666, 'Sharpe Ratio:': 0.6659485986590704, 'Returns:': 9.8209070199551, 'Final Value': 254802.95984822497}
+Netural: BSX : {'DrawDown': 47.76747783165009, 'Sharpe Ratio:': 0.44731017050157196, 'Returns:': 11.494514250795925, 'Final Value': 296336.36009235383}
+Netural: BMY : {'DrawDown': 39.05967327836746, 'Sharpe Ratio:': 0.6127926219056231, 'Returns:': 10.06521862204554, 'Final Value': 260519.29419801186}
 Error: BRCM : Blame Jimmy for not fixing these errors
 Error: BF.B : Blame Jimmy for not fixing these errors
-Netural: CHRW : {'DrawDown': 34.739615276472804, 'Sharpe Ratio:': 0.2563722036273686, 'Returns:': 3.982301690031182, 'Final Value': 147681.15069916824}
-Netural: CA : {'DrawDown': 26.38075556676561, 'Sharpe Ratio:': 0.5114335145978482, 'Returns:': 9.819199754277271, 'Final Value': 229412.00139519863}
+Netural: CHRW : {'DrawDown': 34.94095250339656, 'Sharpe Ratio:': 0.254492042184354, 'Returns:': 4.059929687125248, 'Final Value': 148785.61325726841}
+Netural: CA : {'DrawDown': 26.43687940769344, 'Sharpe Ratio:': 0.5531283476040496, 'Returns:': 10.964586803991477, 'Final Value': 251514.65486464775}
 Error: CVC : Blame Jimmy for not fixing these errors
 Error: COG : Blame Jimmy for not fixing these errors
 Error: CAM : Blame Jimmy for not fixing these errors
-Netural: CPB : {'DrawDown': 48.32886613733716, 'Sharpe Ratio:': 0.2731322835037324, 'Returns:': 4.717619919490274, 'Final Value': 158445.47968959968}
-Netural: COF : {'DrawDown': 35.343984471140416, 'Sharpe Ratio:': 0.5082683640423371, 'Returns:': 9.091107593957577, 'Final Value': 238393.09959723748}
-Netural: CAH : {'DrawDown': 48.58426463893754, 'Sharpe Ratio:': 0.2893717005761205, 'Returns:': 4.938626176117644, 'Final Value': 161815.99013681014}
+Netural: CPB : {'DrawDown': 48.07467422758868, 'Sharpe Ratio:': 0.2014461981612617, 'Returns:': 3.2389269181717286, 'Final Value': 137472.26237358974}
+Netural: COF : {'DrawDown': 35.01694112903272, 'Sharpe Ratio:': 0.5616209241553789, 'Returns:': 10.77778532935639, 'Final Value': 277856.9004138734}
+Netural: CAH : {'DrawDown': 48.58509215533425, 'Sharpe Ratio:': 0.23298503678927443, 'Returns:': 3.846565079623613, 'Final Value': 145767.65505035874}
 Error: CFN : Blame Jimmy for not fixing these errors
-Netural: KMX : {'DrawDown': 43.73646970509376, 'Sharpe Ratio:': 0.7026009358149651, 'Returns:': 11.49524072815374, 'Final Value': 296355.6387296677}
-Netural: CCL : {'DrawDown': 40.503269996603066, 'Sharpe Ratio:': 0.34837379418764314, 'Returns:': 5.598993093617627, 'Final Value': 172274.98443828404}
-Netural: CAT : {'DrawDown': 44.10323257141091, 'Sharpe Ratio:': 0.3832474484321709, 'Returns:': 7.302255323781077, 'Final Value': 202116.90890335382}
+Netural: KMX : {'DrawDown': 42.40249724276446, 'Sharpe Ratio:': 0.7926803203292384, 'Returns:': 11.85306257948458, 'Final Value': 305989.5598228073}
+Netural: CCL : {'DrawDown': 40.07843836926007, 'Sharpe Ratio:': 0.2930193697270066, 'Returns:': 4.462152112798005, 'Final Value': 154628.21859054314}
+Netural: CAT : {'DrawDown': 44.50781020844838, 'Sharpe Ratio:': 0.4055580714110648, 'Returns:': 7.735032818840079, 'Final Value': 210404.91498825958}
 Error: CBG : Blame Jimmy for not fixing these errors
 Error: CBS : Blame Jimmy for not fixing these errors
 Error: CELG : Blame Jimmy for not fixing these errors
-Netural: CNP : {'DrawDown': 32.157337521281114, 'Sharpe Ratio:': 0.5491325467633349, 'Returns:': 8.53881234602575, 'Final Value': 226613.51594707515}
+Netural: CNP : {'DrawDown': 32.19767244239202, 'Sharpe Ratio:': 0.4763804179284591, 'Returns:': 6.912328066278269, 'Final Value': 194902.36439151625}
 Error: CTL : Blame Jimmy for not fixing these errors
 Error: CERN : Blame Jimmy for not fixing these errors
-Netural: CF : {'DrawDown': 67.41635346741539, 'Sharpe Ratio:': 0.5887058625922257, 'Returns:': 12.27086531073694, 'Final Value': 317594.3803117232}
-Netural: SCHW : {'DrawDown': 43.14649404804519, 'Sharpe Ratio:': 0.38471761026763057, 'Returns:': 7.681718875442857, 'Final Value': 209367.66218224991}
+Netural: CF : {'DrawDown': 64.46433409265217, 'Sharpe Ratio:': 0.6507172690972184, 'Returns:': 13.588049598573452, 'Final Value': 356819.1285274115}
+Netural: SCHW : {'DrawDown': 43.14644886040324, 'Sharpe Ratio:': 0.37167551987921205, 'Returns:': 7.126277788752351, 'Final Value': 198831.6936243026}
 Error: CHK : Blame Jimmy for not fixing these errors
-Netural: CVX : {'DrawDown': 44.934329918949665, 'Sharpe Ratio:': 0.4049350186598404, 'Returns:': 6.318014345666388, 'Final Value': 184351.31413545174}
-Netural: CMG : {'DrawDown': 65.91780731352327, 'Sharpe Ratio:': 0.5834129459888358, 'Returns:': 19.972968671479915, 'Final Value': 615997.2335154724}
-Positive: CB : {'DrawDown': 21.099541310012796, 'Sharpe Ratio:': 1.1177342840661908, 'Returns:': 12.708238079950249, 'Final Value': 330165.6698199365}
-Netural: CI : {'DrawDown': 33.17046462176993, 'Sharpe Ratio:': 0.8478460263454523, 'Returns:': 15.124832262559387, 'Final Value': 408055.43591417157}
-Positive: CINF : {'DrawDown': 27.775687374305154, 'Sharpe Ratio:': 1.2549270369682068, 'Returns:': 13.511129074596143, 'Final Value': 354413.9513444008}
-Positive: CTAS : {'DrawDown': 26.7964797731509, 'Sharpe Ratio:': 1.7979724804847044, 'Returns:': 22.596974809594194, 'Final Value': 764527.4735555857}
-Netural: CSCO : {'DrawDown': 49.77362482142005, 'Sharpe Ratio:': 0.5678969923269218, 'Returns:': 7.652236301284479, 'Final Value': 208796.0400409078}
-Netural: C : {'DrawDown': 53.64422723105275, 'Sharpe Ratio:': 0.3844776677263062, 'Returns:': 7.9318117099629895, 'Final Value': 214273.51232351142}
+Netural: CVX : {'DrawDown': 45.063058698912, 'Sharpe Ratio:': 0.39214241758351914, 'Returns:': 5.99149681774207, 'Final Value': 178775.96291535493}
+Netural: CMG : {'DrawDown': 65.27214620693293, 'Sharpe Ratio:': 0.5661596334269782, 'Returns:': 17.764624319723172, 'Final Value': 511706.9197386933}
+Positive: CB : {'DrawDown': 21.15970908225895, 'Sharpe Ratio:': 1.2194026486968628, 'Returns:': 13.712450483495465, 'Final Value': 360740.0361564219}
+Netural: CI : {'DrawDown': 32.486996784332824, 'Sharpe Ratio:': 0.7856119220198876, 'Returns:': 13.755965555668217, 'Final Value': 362120.68363390275}
+Positive: CINF : {'DrawDown': 27.05989223960992, 'Sharpe Ratio:': 1.1673290287658078, 'Returns:': 13.939910404426342, 'Final Value': 368009.5755835356}
+Positive: CTAS : {'DrawDown': 27.8825215558703, 'Sharpe Ratio:': 1.301178353550513, 'Returns:': 21.102372684281526, 'Final Value': 676404.7325681672}
+Netural: CSCO : {'DrawDown': 49.21114467040838, 'Sharpe Ratio:': 0.46297143582766837, 'Returns:': 6.139475834151846, 'Final Value': 181283.65153725466}
+Netural: C : {'DrawDown': 57.603720328281064, 'Sharpe Ratio:': 0.4090003625529555, 'Returns:': 8.638196862537283, 'Final Value': 228693.77100474347}
 Error: CTXS : Blame Jimmy for not fixing these errors
-Negative: CLF : {'DrawDown': 98.34396412279936, 'Sharpe Ratio:': 0.13577131753121505, 'Returns:': -16.391913078496163, 'Final Value': 16738.51849704125}
-Positive: CLX : {'DrawDown': 22.303307474079123, 'Sharpe Ratio:': 1.1365624164848016, 'Returns:': 10.696498779981486, 'Final Value': 275827.97438809526}
-Netural: CME : {'DrawDown': 32.34680411336772, 'Sharpe Ratio:': 0.7423664075700326, 'Returns:': 12.86138913853145, 'Final Value': 334672.3708957125}
-Positive: CMS : {'DrawDown': 17.236090055187905, 'Sharpe Ratio:': 1.450608811754679, 'Returns:': 13.67000365618352, 'Final Value': 359397.8475705357}
+Negative: CLF : {'DrawDown': 98.06251415283305, 'Sharpe Ratio:': 0.09713782807818575, 'Returns:': -17.629655107117028, 'Final Value': 14422.674902351617}
+Positive: CLX : {'DrawDown': 21.968891626055868, 'Sharpe Ratio:': 1.122619746972827, 'Returns:': 11.011922606454148, 'Final Value': 283776.27885612147}
+Netural: CME : {'DrawDown': 32.34681774110408, 'Sharpe Ratio:': 0.7558959061825054, 'Returns:': 13.785948917739347, 'Final Value': 363074.7615360413}
+Positive: CMS : {'DrawDown': 17.2029131004946, 'Sharpe Ratio:': 1.3915614163327368, 'Returns:': 15.16969959127863, 'Final Value': 409645.9990073941}
 Error: COH : Blame Jimmy for not fixing these errors
-Positive: KO : {'DrawDown': 13.712793138050667, 'Sharpe Ratio:': 1.0062566217713425, 'Returns:': 7.951110924353475, 'Final Value': 214656.35258944795}
+Positive: KO : {'DrawDown': 13.752941007347003, 'Sharpe Ratio:': 1.1895210684039659, 'Returns:': 9.176427846877964, 'Final Value': 240261.1682734826}
 Error: CCE : Blame Jimmy for not fixing these errors
-Netural: CTSH : {'DrawDown': 33.91566789734115, 'Sharpe Ratio:': 0.4411676027462239, 'Returns:': 7.929683069554974, 'Final Value': 214231.32393424786}
-Netural: CL : {'DrawDown': 23.548251014406045, 'Sharpe Ratio:': 0.502725239593354, 'Returns:': 6.717732308471961, 'Final Value': 191389.3122280642}
-Netural: CMCSA : {'DrawDown': 28.14933505550134, 'Sharpe Ratio:': 0.9771826262013125, 'Returns:': 16.326203735280878, 'Final Value': 452619.2825552975}
-Netural: CMA : {'DrawDown': 47.17455107979549, 'Sharpe Ratio:': 0.43657668032142993, 'Returns:': 9.372652547243215, 'Final Value': 244607.54566839067}
+Netural: CTSH : {'DrawDown': 33.57138246237403, 'Sharpe Ratio:': 0.5285659945634209, 'Returns:': 9.141472859933412, 'Final Value': 239494.2494185284}
+Netural: CL : {'DrawDown': 23.507853270651175, 'Sharpe Ratio:': 0.5393451821916656, 'Returns:': 7.652033660467371, 'Final Value': 208792.1160087897}
+Netural: CMCSA : {'DrawDown': 28.170386806122263, 'Sharpe Ratio:': 0.906520083754719, 'Returns:': 15.64245891143727, 'Final Value': 426747.82176754257}
+Netural: CMA : {'DrawDown': 50.019616732166554, 'Sharpe Ratio:': 0.3517359353102414, 'Returns:': 6.687766361446043, 'Final Value': 190853.42740004082}
 Error: CSC : Blame Jimmy for not fixing these errors
-Netural: CAG : {'DrawDown': 47.266140401682684, 'Sharpe Ratio:': 0.32017918649837357, 'Returns:': 5.96402779865782, 'Final Value': 178313.9162847102}
-Netural: COP : {'DrawDown': 60.388909952618334, 'Sharpe Ratio:': 0.4444567081093649, 'Returns:': 6.570840085117882, 'Final Value': 188775.30830783342}
-Negative: CNX : {'DrawDown': 90.50907921814593, 'Sharpe Ratio:': -0.08115135584568431, 'Returns:': -14.70336206201686, 'Final Value': 20436.920328423872}
-Netural: ED : {'DrawDown': 18.68282914710896, 'Sharpe Ratio:': 0.8054575075674644, 'Returns:': 8.587960368113166, 'Final Value': 227640.1140042399}
-Netural: STZ : {'DrawDown': 34.74421495684907, 'Sharpe Ratio:': 0.8943119899996267, 'Returns:': 24.904630614071454, 'Final Value': 920984.6690745406}
+Netural: CAG : {'DrawDown': 47.28087728486468, 'Sharpe Ratio:': 0.34721593194917205, 'Returns:': 6.592709927666214, 'Final Value': 189162.4437504596}
+Netural: COP : {'DrawDown': 60.393733447790375, 'Sharpe Ratio:': 0.3691022779648087, 'Returns:': 5.1558681322333, 'Final Value': 165191.83122972364}
+Negative: CNX : {'DrawDown': 90.13581967684748, 'Sharpe Ratio:': -0.00629754928609076, 'Returns:': -11.041391230980842, 'Final Value': 31094.699433217575}
+Netural: ED : {'DrawDown': 18.76678427158852, 'Sharpe Ratio:': 0.7708345911203751, 'Returns:': 9.722909762897283, 'Final Value': 252541.9457865182}
+Netural: STZ : {'DrawDown': 34.5487090353882, 'Sharpe Ratio:': 0.9277564653270653, 'Returns:': 26.194225453314996, 'Final Value': 1020448.3379066265}
 Error: #CBE : Blame Jimmy for not fixing these errors
-Netural: GLW : {'DrawDown': 50.50747092720988, 'Sharpe Ratio:': 0.28567646560684007, 'Returns:': 5.069261577911172, 'Final Value': 163838.4825168083}
-Positive: COST : {'DrawDown': 20.979465094222242, 'Sharpe Ratio:': 1.5598090907327222, 'Returns:': 16.30366735623252, 'Final Value': 451744.5570104637}
+Netural: GLW : {'DrawDown': 50.17853049130566, 'Sharpe Ratio:': 0.2682400589626313, 'Returns:': 4.621164540930004, 'Final Value': 156994.369567829}
+Positive: COST : {'DrawDown': 20.56179053546593, 'Sharpe Ratio:': 1.2608173296172676, 'Returns:': 15.328151624722361, 'Final Value': 415307.9221806106}
 Error: CVH : Blame Jimmy for not fixing these errors
-Netural: COV : {'DrawDown': 34.239587502665074, 'Sharpe Ratio:': 0.3885578470936648, 'Returns:': 9.033790810401578, 'Final Value': 191757.2095273109}
-Netural: CCI : {'DrawDown': 19.419269891568987, 'Sharpe Ratio:': 0.9531510279162803, 'Returns:': 12.898720469685438, 'Final Value': 335779.2582471243}
-Netural: CSX : {'DrawDown': 40.36116211543049, 'Sharpe Ratio:': 0.6883897126590037, 'Returns:': 13.876478380044608, 'Final Value': 365969.1719797671}
-Netural: CMI : {'DrawDown': 44.80430449205833, 'Sharpe Ratio:': 0.49670368768295925, 'Returns:': 12.403235526161756, 'Final Value': 321352.8181420942}
-Netural: CVS : {'DrawDown': 49.475481641887825, 'Sharpe Ratio:': 0.45207993275192676, 'Returns:': 7.421538129602336, 'Final Value': 204371.41512423966}
-Netural: DHI : {'DrawDown': 38.40003131282574, 'Sharpe Ratio:': 0.610369644200003, 'Returns:': 13.672126187410036, 'Final Value': 359464.8561190405}
-Positive: DHR : {'DrawDown': 27.021931497076277, 'Sharpe Ratio:': 1.3587951830575962, 'Returns:': 15.619705848193147, 'Final Value': 425910.2536166519}
-Positive: DRI : {'DrawDown': 22.2638915256442, 'Sharpe Ratio:': 1.1183468901118865, 'Returns:': 12.276205698707665, 'Final Value': 317745.2428614657}
-Netural: DVA : {'DrawDown': 47.85718448052241, 'Sharpe Ratio:': 0.4234690566633632, 'Returns:': 7.6379918895465675, 'Final Value': 208520.36611406322}
+Netural: COV : {'DrawDown': 43.38312809831262, 'Sharpe Ratio:': 0.35421269737285954, 'Returns:': 8.533213363403775, 'Final Value': 185228.5011617187}
+Netural: CCI : {'DrawDown': 18.912914362899727, 'Sharpe Ratio:': 0.8834268689610657, 'Returns:': 11.685667043920963, 'Final Value': 301448.1060711915}
+Netural: CSX : {'DrawDown': 39.451464275443286, 'Sharpe Ratio:': 0.6367402854913556, 'Returns:': 13.474429799777749, 'Final Value': 353271.5747648633}
+Netural: CMI : {'DrawDown': 44.574320783511546, 'Sharpe Ratio:': 0.5415904865617639, 'Returns:': 15.147154957041128, 'Final Value': 408846.0875506966}
+Netural: CVS : {'DrawDown': 48.155053261912876, 'Sharpe Ratio:': 0.44048478133439795, 'Returns:': 5.964446537122234, 'Final Value': 178320.9516628004}
+Netural: DHI : {'DrawDown': 40.42258948317958, 'Sharpe Ratio:': 0.6705173115672579, 'Returns:': 15.417792712905623, 'Final Value': 418542.1376326921}
+Positive: DHR : {'DrawDown': 26.389943128852025, 'Sharpe Ratio:': 1.465133431021579, 'Returns:': 16.481416450521948, 'Final Value': 458685.212124377}
+Positive: DRI : {'DrawDown': 22.598443731678334, 'Sharpe Ratio:': 1.122134102659388, 'Returns:': 11.96223185813491, 'Final Value': 308984.4031387577}
+Netural: DVA : {'DrawDown': 48.1126014795911, 'Sharpe Ratio:': 0.39547823245352764, 'Returns:': 7.137337299025099, 'Final Value': 199036.73287332538}
 Error: DF : Blame Jimmy for not fixing these errors
-Netural: DE : {'DrawDown': 36.3845686683512, 'Sharpe Ratio:': 0.5869399291086921, 'Returns:': 11.720218377003008, 'Final Value': 302380.48752699886}
-Netural: DELL : {'DrawDown': 33.344550551688265, 'Sharpe Ratio:': 1.474630827926248, 'Returns:': 20.904234492097938, 'Final Value': 189561.16911253467}
+Netural: DE : {'DrawDown': 36.92618348702076, 'Sharpe Ratio:': 0.5145256830366202, 'Returns:': 8.613738163232004, 'Final Value': 228180.22889245296}
+Netural: DELL : {'DrawDown': 34.874087902288196, 'Sharpe Ratio:': 1.7382745920435603, 'Returns:': 20.905482702232142, 'Final Value': 189567.7624913991}
 Error: DNR : Blame Jimmy for not fixing these errors
-Netural: XRAY : {'DrawDown': 48.923202027239604, 'Sharpe Ratio:': 0.2386683509228194, 'Returns:': 3.7021502711225454, 'Final Value': 143756.3431362535}
-Negative: DVN : {'DrawDown': 77.71004353605234, 'Sharpe Ratio:': -0.23463060739205496, 'Returns:': -9.539489740592526, 'Final Value': 36752.0406170308}
+Netural: XRAY : {'DrawDown': 49.232777493015384, 'Sharpe Ratio:': 0.2652933018467396, 'Returns:': 4.303463586258421, 'Final Value': 152298.92784873582}
+Negative: DVN : {'DrawDown': 77.49190740074914, 'Sharpe Ratio:': -0.226261547379036, 'Returns:': -9.332908117179084, 'Final Value': 37598.65096836759}
 Error: DV : Blame Jimmy for not fixing these errors
 Error: DO : Blame Jimmy for not fixing these errors
 Error: DTV : Blame Jimmy for not fixing these errors
-Netural: DFS : {'DrawDown': 32.79651899317198, 'Sharpe Ratio:': 0.7343529089398482, 'Returns:': 15.595573645463887, 'Final Value': 425023.5343527336}
+Netural: DFS : {'DrawDown': 32.90771798344, 'Sharpe Ratio:': 0.7864180277877452, 'Returns:': 16.004734895166738, 'Final Value': 440284.84324465593}
 Error: DISCA : Blame Jimmy for not fixing these errors
-Netural: DLTR : {'DrawDown': 31.985008865817427, 'Sharpe Ratio:': 0.6679072981742791, 'Returns:': 13.207249338507857, 'Final Value': 345054.1345011329}
-Netural: D : {'DrawDown': 25.329470567975594, 'Sharpe Ratio:': 0.8163652666300281, 'Returns:': 10.42054049111337, 'Final Value': 269039.071122287}
+Netural: DLTR : {'DrawDown': 30.954733958168422, 'Sharpe Ratio:': 0.646155609220685, 'Returns:': 13.902615439723201, 'Final Value': 366808.68050592433}
+Netural: D : {'DrawDown': 25.329304903840743, 'Sharpe Ratio:': 0.8226950112454261, 'Returns:': 10.031665551020506, 'Final Value': 259727.45404558012}
 Error: RRD : Blame Jimmy for not fixing these errors
-Netural: DOV : {'DrawDown': 39.764963942902476, 'Sharpe Ratio:': 0.6877807733291096, 'Returns:': 14.75692499797914, 'Final Value': 395221.12787646527}
+Netural: DOV : {'DrawDown': 39.964327386915016, 'Sharpe Ratio:': 0.7176316319707619, 'Returns:': 14.2332882401826, 'Final Value': 377580.39689540124}
 Error: DOW : Blame Jimmy for not fixing these errors
 Error: DPS : Blame Jimmy for not fixing these errors
-Netural: DTE : {'DrawDown': 17.842171244105508, 'Sharpe Ratio:': 0.971001861716501, 'Returns:': 12.113070560602726, 'Final Value': 313165.76391773473}
-Netural: DD : {'DrawDown': 45.79390510961022, 'Sharpe Ratio:': 0.4417677744643086, 'Returns:': 7.6691029702675815, 'Final Value': 209122.88688642267}
-Netural: DUK : {'DrawDown': 22.94756497496404, 'Sharpe Ratio:': 0.8751952955996175, 'Returns:': 8.654854498540502, 'Final Value': 229044.11477599744}
+Netural: DTE : {'DrawDown': 17.407243477656507, 'Sharpe Ratio:': 0.9655658964927895, 'Returns:': 11.593040312979003, 'Final Value': 298961.2872638632}
+Netural: DD : {'DrawDown': 44.83931418546569, 'Sharpe Ratio:': 0.3594706860970088, 'Returns:': 5.8982479906968175, 'Final Value': 177211.8220411124}
+Netural: DUK : {'DrawDown': 21.865059820534196, 'Sharpe Ratio:': 0.7536274377512707, 'Returns:': 7.86402194221007, 'Final Value': 212933.6250056044}
 Error: DNB : Blame Jimmy for not fixing these errors
 Error: ETFC : Blame Jimmy for not fixing these errors
-Netural: EMN : {'DrawDown': 41.60161979364554, 'Sharpe Ratio:': 0.4771738042040143, 'Returns:': 9.722877148435142, 'Final Value': 252541.19631360262}
-Netural: ETN : {'DrawDown': 38.49058916847997, 'Sharpe Ratio:': 0.5448994924480786, 'Returns:': 10.754264280888552, 'Final Value': 277268.43479452253}
-Netural: EBAY : {'DrawDown': 40.24830441261155, 'Sharpe Ratio:': 0.5505407942500906, 'Returns:': 11.293138904315365, 'Final Value': 291035.73707371496}
-Positive: ECL : {'DrawDown': 21.354677983437035, 'Sharpe Ratio:': 1.1535061412163532, 'Returns:': 12.472912754370318, 'Final Value': 323347.2256303221}
-Netural: EIX : {'DrawDown': 39.97137055601788, 'Sharpe Ratio:': 0.5734765444645329, 'Returns:': 9.480593888342653, 'Final Value': 247028.4919162819}
-Netural: EW : {'DrawDown': 43.76915338397337, 'Sharpe Ratio:': 0.802296100802658, 'Returns:': 21.009530889874366, 'Final Value': 671245.1749751854}
-Netural: EA : {'DrawDown': 56.201565508341744, 'Sharpe Ratio:': 0.548570321619622, 'Returns:': 14.19208133527961, 'Final Value': 376222.7300113504}
-Netural: EMC : {'DrawDown': 59.06937877473634, 'Sharpe Ratio:': 0.43786174990546955, 'Returns:': 12.408854137473972, 'Final Value': 228576.01904296875}
-Netural: EMR : {'DrawDown': 35.644395286943194, 'Sharpe Ratio:': 0.3930547310791031, 'Returns:': 7.086351975891164, 'Final Value': 198093.06440739025}
+Netural: EMN : {'DrawDown': 41.75946727262028, 'Sharpe Ratio:': 0.43382245263574437, 'Returns:': 9.090817966320555, 'Final Value': 238386.7805842664}
+Netural: ETN : {'DrawDown': 37.48850729141228, 'Sharpe Ratio:': 0.5298985623979289, 'Returns:': 10.213471344049225, 'Final Value': 264044.07223697717}
+Netural: EBAY : {'DrawDown': 41.0868982896689, 'Sharpe Ratio:': 0.6903725147851695, 'Returns:': 11.71663708114721, 'Final Value': 302283.72443294193}
+Positive: ECL : {'DrawDown': 20.804651118502186, 'Sharpe Ratio:': 1.3339041347648264, 'Returns:': 14.388919427010608, 'Final Value': 382747.92514350906}
+Netural: EIX : {'DrawDown': 40.3073737990174, 'Sharpe Ratio:': 0.6101157501166355, 'Returns:': 9.024795509414416, 'Final Value': 236950.2483974409}
+Netural: EW : {'DrawDown': 43.41667265796301, 'Sharpe Ratio:': 0.858671875571491, 'Returns:': 23.517205872805555, 'Final Value': 823793.9465036297}
+Netural: EA : {'DrawDown': 55.84267949415435, 'Sharpe Ratio:': 0.4882223817937579, 'Returns:': 11.012972444617697, 'Final Value': 283803.07407857577}
+Netural: EMC : {'DrawDown': 52.69521476978455, 'Sharpe Ratio:': 0.5715587164362486, 'Returns:': 23.539879310851912, 'Final Value': 445495.7344775391}
+Netural: EMR : {'DrawDown': 35.54972545682528, 'Sharpe Ratio:': 0.4142693866724785, 'Returns:': 7.660222691751631, 'Final Value': 208950.74511978647}
 Error: ESV : Blame Jimmy for not fixing these errors
-Netural: ETR : {'DrawDown': 28.93064776934506, 'Sharpe Ratio:': 0.431790504587767, 'Returns:': 7.388305692190518, 'Final Value': 203741.0420976425}
-Netural: EOG : {'DrawDown': 49.498892538658346, 'Sharpe Ratio:': 0.314596282789932, 'Returns:': 5.725561871539934, 'Final Value': 174347.694567448}
-Negative: EQT : {'DrawDown': 84.94739221846247, 'Sharpe Ratio:': -0.17628025441535436, 'Returns:': -7.877464610314104, 'Final Value': 44078.25993848647}
-Netural: EFX : {'DrawDown': 38.28748383850597, 'Sharpe Ratio:': 0.7683731371791511, 'Returns:': 14.538763671765956, 'Final Value': 387783.34861542244}
-Netural: EQR : {'DrawDown': 21.124018003199993, 'Sharpe Ratio:': 0.7534797588253583, 'Returns:': 11.226696213837199, 'Final Value': 289305.63854109467}
-Netural: EL : {'DrawDown': 22.477241891169527, 'Sharpe Ratio:': 0.940368514880881, 'Returns:': 21.321794933456943, 'Final Value': 688740.9536290598}
-Netural: EXC : {'DrawDown': 34.13475022077187, 'Sharpe Ratio:': 0.14875038492748854, 'Returns:': 2.0101499683608104, 'Final Value': 121982.25673100533}
-Netural: EXPE : {'DrawDown': 39.59211992338497, 'Sharpe Ratio:': 0.3745991448061869, 'Returns:': 9.524215689428054, 'Final Value': 248012.9586248876}
-Netural: EXPD : {'DrawDown': 38.11328019969266, 'Sharpe Ratio:': 0.4694854478217186, 'Returns:': 7.890862730547445, 'Final Value': 213463.23784612791}
-Netural: ESRX : {'DrawDown': 40.86934159688247, 'Sharpe Ratio:': 0.4342303533040117, 'Returns:': 6.928084238775869, 'Final Value': 182251.72070148468}
-Netural: XOM : {'DrawDown': 31.166532437026614, 'Sharpe Ratio:': 0.1023634856429573, 'Returns:': 1.5312629038182062, 'Final Value': 116383.95827136301}
-Netural: FFIV : {'DrawDown': 52.084406530665404, 'Sharpe Ratio:': 0.3141629170391931, 'Returns:': 8.452911135794293, 'Final Value': 224829.22102020262}
+Netural: ETR : {'DrawDown': 28.958086948211232, 'Sharpe Ratio:': 0.3995959615221264, 'Returns:': 6.25802745716891, 'Final Value': 183315.4439252622}
+Netural: EOG : {'DrawDown': 50.456151632351684, 'Sharpe Ratio:': 0.32743655087970003, 'Returns:': 5.587106704941732, 'Final Value': 172081.47467494523}
+Negative: EQT : {'DrawDown': 84.89511578392731, 'Sharpe Ratio:': -0.04040196153996529, 'Returns:': -5.676286227923628, 'Final Value': 55797.117070256485}
+Netural: EFX : {'DrawDown': 36.06651104104409, 'Sharpe Ratio:': 0.762841458729873, 'Returns:': 14.559782688483683, 'Final Value': 388494.42653030046}
+Netural: EQR : {'DrawDown': 21.3888264384642, 'Sharpe Ratio:': 0.6170598057503942, 'Returns:': 11.405897482539201, 'Final Value': 293993.17074536305}
+Netural: EL : {'DrawDown': 22.5864168310927, 'Sharpe Ratio:': 0.8889625487956802, 'Returns:': 19.036488687355458, 'Final Value': 569639.1177131587}
+Netural: EXC : {'DrawDown': 34.134741055599484, 'Sharpe Ratio:': 0.16606259344175417, 'Returns:': 2.3678541284611803, 'Final Value': 126320.7421331975}
+Netural: EXPE : {'DrawDown': 36.938649203123425, 'Sharpe Ratio:': 0.4609547670699458, 'Returns:': 14.46798672465453, 'Final Value': 385397.5521511276}
+Netural: EXPD : {'DrawDown': 36.80144454654494, 'Sharpe Ratio:': 0.4356626007873618, 'Returns:': 6.049075377261094, 'Final Value': 179747.96908492353}
+Netural: ESRX : {'DrawDown': 40.65570431871997, 'Sharpe Ratio:': 0.42778719624201855, 'Returns:': 6.695686106840198, 'Final Value': 178733.0249236679}
+Netural: XOM : {'DrawDown': 31.313430889763747, 'Sharpe Ratio:': 0.07425853821472636, 'Returns:': 1.2286338171327646, 'Final Value': 112966.47463961174}
+Netural: FFIV : {'DrawDown': 49.62022457024701, 'Sharpe Ratio:': 0.39631284881102513, 'Returns:': 10.71386227591292, 'Final Value': 276260.2469991303}
 Error: FDO : Blame Jimmy for not fixing these errors
-Netural: FAST : {'DrawDown': 29.26750887936996, 'Sharpe Ratio:': 0.6518749728599798, 'Returns:': 11.760014332927673, 'Final Value': 303457.61239073303}
+Netural: FAST : {'DrawDown': 29.15518422348913, 'Sharpe Ratio:': 0.7213341027915111, 'Returns:': 13.956856259505363, 'Final Value': 368556.3988618509}
 Error: FII : Blame Jimmy for not fixing these errors
-Netural: FDX : {'DrawDown': 48.17253729088949, 'Sharpe Ratio:': 0.18268676395700664, 'Returns:': 2.5349996910078425, 'Final Value': 128395.19491001691}
-Netural: FIS : {'DrawDown': 32.164182239282056, 'Sharpe Ratio:': 1.3613333550712239, 'Returns:': 17.76904566579443, 'Final Value': 511898.7620019606}
-Netural: FITB : {'DrawDown': 39.21023518327503, 'Sharpe Ratio:': 0.7080422335982608, 'Returns:': 12.964173254777759, 'Final Value': 337727.91058146115}
-Netural: FHN : {'DrawDown': 60.32416780992283, 'Sharpe Ratio:': 0.18860471899591746, 'Returns:': 2.5648860812631735, 'Final Value': 128769.33039136883}
-Negative: FSLR : {'DrawDown': 92.33980751439647, 'Sharpe Ratio:': 0.12916913891117873, 'Returns:': -6.941367606312862, 'Final Value': 48759.87501007081}
-Netural: FE : {'DrawDown': 34.731555346357474, 'Sharpe Ratio:': 0.302266138746806, 'Returns:': 5.038952321009284, 'Final Value': 163367.21997589752}
-Positive: FISV : {'DrawDown': 23.906046178759766, 'Sharpe Ratio:': 1.3356539188315562, 'Returns:': 19.980572418752924, 'Final Value': 616387.1366922857}
+Netural: FDX : {'DrawDown': 47.45234002090563, 'Sharpe Ratio:': 0.16681367329233687, 'Returns:': 2.1498760895954514, 'Final Value': 123660.73091671283}
+Netural: FIS : {'DrawDown': 32.106990029371794, 'Sharpe Ratio:': 1.447689202207983, 'Returns:': 16.549700285938528, 'Final Value': 461376.93299812364}
+Netural: FITB : {'DrawDown': 41.79706060769562, 'Sharpe Ratio:': 0.7021327453555771, 'Returns:': 11.962317963064734, 'Final Value': 308986.7756300333}
+Netural: FHN : {'DrawDown': 63.100164149021936, 'Sharpe Ratio:': 0.13679852938540413, 'Returns:': 1.4482496962204299, 'Final Value': 115437.380924803}
+Negative: FSLR : {'DrawDown': 90.5764984793678, 'Sharpe Ratio:': 0.16919104776916224, 'Returns:': -4.875052448103916, 'Final Value': 60713.9985768127}
+Netural: FE : {'DrawDown': 34.73392253558759, 'Sharpe Ratio:': 0.3086384065464504, 'Returns:': 5.232387138431848, 'Final Value': 166395.9088932915}
+Positive: FISV : {'DrawDown': 23.849766352633065, 'Sharpe Ratio:': 1.7040095881375863, 'Returns:': 21.649955865762667, 'Final Value': 707568.6355148599}
 Error: FLIR : Blame Jimmy for not fixing these errors
-Netural: FLS : {'DrawDown': 55.04080849267676, 'Sharpe Ratio:': 0.23702466568664465, 'Returns:': 4.011766328936766, 'Final Value': 148099.49102486012}
-Negative: FLR : {'DrawDown': 76.8774880910873, 'Sharpe Ratio:': -0.1484458037271548, 'Returns:': -6.799983986128878, 'Final Value': 49504.5743004529}
-Netural: FMC : {'DrawDown': 58.04265121001597, 'Sharpe Ratio:': 0.5314905970786971, 'Returns:': 13.777721596468808, 'Final Value': 362812.74124595633}
-Negative: FTI : {'DrawDown': 69.41984101122995, 'Sharpe Ratio:': -0.07624781633174639, 'Returns:': -3.8708713019534295, 'Final Value': 67425.19360680976}
-Netural: F : {'DrawDown': 51.05599508352239, 'Sharpe Ratio:': 0.13049606078921275, 'Returns:': 1.088698704598264, 'Final Value': 111416.98841597854}
+Netural: FLS : {'DrawDown': 54.01919004239789, 'Sharpe Ratio:': 0.2632287484879043, 'Returns:': 4.719403628394457, 'Final Value': 158472.42774290385}
+Negative: FLR : {'DrawDown': 76.88757712331548, 'Sharpe Ratio:': -0.2677377791576875, 'Returns:': -8.914769958150295, 'Final Value': 39366.18038906927}
+Netural: FMC : {'DrawDown': 56.8474242980529, 'Sharpe Ratio:': 0.580928957891221, 'Returns:': 14.813659340971293, 'Final Value': 397176.28679645836}
+Negative: FTI : {'DrawDown': 69.31375642409762, 'Sharpe Ratio:': -0.040494939530208225, 'Returns:': -3.1694103509614937, 'Final Value': 72501.63282700842}
+Netural: F : {'DrawDown': 45.22979474380965, 'Sharpe Ratio:': 0.1326455154341564, 'Returns:': 1.46014611349444, 'Final Value': 115572.60591973325}
 Error: FRX : Blame Jimmy for not fixing these errors
-Negative: FOSL : {'DrawDown': 94.70851362789747, 'Sharpe Ratio:': -0.1115718877384672, 'Returns:': -16.60579877651827, 'Final Value': 16315.874049034135}
-Negative: BEN : {'DrawDown': 46.1149622064588, 'Sharpe Ratio:': 0.014041785519421974, 'Returns:': -0.7949179059823107, 'Final Value': 92340.92601799087}
-Negative: FCX : {'DrawDown': 91.4897154492131, 'Sharpe Ratio:': 0.0008006793564647084, 'Returns:': -10.121139904123542, 'Final Value': 34459.67300551257}
+Negative: FOSL : {'DrawDown': 95.81090402456924, 'Sharpe Ratio:': -0.10946850550781084, 'Returns:': -18.54244145493212, 'Final Value': 12904.0988041687}
+Netural: BEN : {'DrawDown': 45.97256872478478, 'Sharpe Ratio:': 0.08102894994461889, 'Returns:': 0.48591869384250963, 'Final Value': 104958.75198928775}
+Negative: FCX : {'DrawDown': 87.83278715803016, 'Sharpe Ratio:': 0.017124675742184153, 'Returns:': -7.616803421788555, 'Final Value': 45339.42377415079}
 Error: FTR : Blame Jimmy for not fixing these errors
-Negative: GME : {'DrawDown': 91.45351145182845, 'Sharpe Ratio:': -0.3092304170312826, 'Returns:': -10.87870063528623, 'Final Value': 31667.154578980746}
-Negative: GCI : {'DrawDown': 61.607239914818244, 'Sharpe Ratio:': -0.06552057619865632, 'Returns:': -5.427649482456024, 'Final Value': 71927.21953071673}
-Negative: GPS : {'DrawDown': 60.6835215742523, 'Sharpe Ratio:': 0.10409231839491212, 'Returns:': -0.30693659139051616, 'Final Value': 96977.4153760994}
-Netural: GD : {'DrawDown': 34.292453984664384, 'Sharpe Ratio:': 0.5006489035999321, 'Returns:': 7.247004590724691, 'Final Value': 201080.24582487036}
-Negative: GE : {'DrawDown': 74.9084956719096, 'Sharpe Ratio:': 0.05770862532608955, 'Returns:': -2.2808987602121973, 'Final Value': 79424.35480850152}
-Netural: GIS : {'DrawDown': 45.0409373193583, 'Sharpe Ratio:': 0.384046630060645, 'Returns:': 6.257846554379832, 'Final Value': 183312.3279834235}
-Netural: GPC : {'DrawDown': 26.455530142753542, 'Sharpe Ratio:': 0.8032679604081976, 'Returns:': 10.904485790569534, 'Final Value': 281046.154691585}
-Negative: GNW : {'DrawDown': 89.93378174914359, 'Sharpe Ratio:': -0.046611096397073615, 'Returns:': -10.397256494902422, 'Final Value': 33417.186151847854}
-Netural: GILD : {'DrawDown': 43.615015290902534, 'Sharpe Ratio:': 0.35192049792248037, 'Returns:': 7.739668361392551, 'Final Value': 210495.32021563296}
-Netural: GS : {'DrawDown': 51.189231028753376, 'Sharpe Ratio:': 0.22618264283616507, 'Returns:': 3.043915343386155, 'Final Value': 134901.51204051197}
-Negative: GT : {'DrawDown': 67.89030599096357, 'Sharpe Ratio:': 0.031300817481620724, 'Returns:': -0.8858599409525834, 'Final Value': 91499.24532394284}
-Netural: GOOG : {'DrawDown': 30.858473715820306, 'Sharpe Ratio:': 0.6692523463239624, 'Returns:': 12.624656435544267, 'Final Value': 327729.2563976097}
-Netural: GWW : {'DrawDown': 37.9128195605166, 'Sharpe Ratio:': 0.8771581885697072, 'Returns:': 12.794235765944704, 'Final Value': 332689.51161871874}
-Negative: HAL : {'DrawDown': 73.59029794278256, 'Sharpe Ratio:': -0.008498664709782952, 'Returns:': -3.3963515745266792, 'Final Value': 70822.86397179772}
-Netural: HOG : {'DrawDown': 51.268044698210225, 'Sharpe Ratio:': 0.2068771409651702, 'Returns:': 3.065665482400322, 'Final Value': 135186.07503272666}
-Negative: HAR : {'DrawDown': 82.34114068214457, 'Sharpe Ratio:': -0.19446305867681893, 'Returns:': -14.144274926768368, 'Final Value': 34720.81800781247}
+Negative: GME : {'DrawDown': 91.45609893887544, 'Sharpe Ratio:': -0.32294979410941843, 'Returns:': -10.612330681177495, 'Final Value': 32624.923961911965}
+Negative: GCI : {'DrawDown': 61.134485426986004, 'Sharpe Ratio:': -0.14570340189075795, 'Returns:': -6.024798297662466, 'Final Value': 69286.68198774192}
+Negative: GPS : {'DrawDown': 61.39294085650927, 'Sharpe Ratio:': 0.0675150752870837, 'Returns:': -1.4624841126853345, 'Final Value': 86321.23748429974}
+Netural: GD : {'DrawDown': 33.69279645762474, 'Sharpe Ratio:': 0.5380462668710227, 'Returns:': 7.801777621014002, 'Final Value': 211709.98981199716}
+Negative: GE : {'DrawDown': 77.00047622443158, 'Sharpe Ratio:': 0.058298933709460626, 'Returns:': -2.722138423445968, 'Final Value': 75915.49090181725}
+Netural: GIS : {'DrawDown': 44.183791608599144, 'Sharpe Ratio:': 0.2923327458504166, 'Returns:': 4.525694857964805, 'Final Value': 155569.8758141392}
+Netural: GPC : {'DrawDown': 26.2898912808343, 'Sharpe Ratio:': 0.8169629784997071, 'Returns:': 11.452194276950273, 'Final Value': 295215.2544176298}
+Negative: GNW : {'DrawDown': 90.96335434450025, 'Sharpe Ratio:': -0.05503850975904397, 'Returns:': -11.225435939413996, 'Final Value': 30458.34487878799}
+Netural: GILD : {'DrawDown': 43.89423792201629, 'Sharpe Ratio:': 0.37763997293114315, 'Returns:': 7.9111801309669145, 'Final Value': 213864.92141752873}
+Netural: GS : {'DrawDown': 51.18922547381373, 'Sharpe Ratio:': 0.22869506241000231, 'Returns:': 3.1056380820445577, 'Final Value': 135710.4563137258}
+Negative: GT : {'DrawDown': 67.4541248901382, 'Sharpe Ratio:': 0.02726128485363587, 'Returns:': -0.8893535464313795, 'Final Value': 91467.049682163}
+Netural: GOOG : {'DrawDown': 30.858473715820306, 'Sharpe Ratio:': 0.7047596396315671, 'Returns:': 13.697147576023482, 'Final Value': 360255.6320139122}
+Netural: GWW : {'DrawDown': 38.40971694991688, 'Sharpe Ratio:': 0.8275782627223331, 'Returns:': 12.318429235607661, 'Final Value': 318940.30314581154}
+Negative: HAL : {'DrawDown': 73.5801529676126, 'Sharpe Ratio:': 0.06733887689912862, 'Returns:': -1.5817476138357138, 'Final Value': 85283.77197052537}
+Netural: HOG : {'DrawDown': 50.75778235175532, 'Sharpe Ratio:': 0.2391499143235473, 'Returns:': 3.8811426269464615, 'Final Value': 146252.96923052092}
+Negative: HAR : {'DrawDown': 86.31401609928106, 'Sharpe Ratio:': -0.13981388656101396, 'Returns:': -21.268060231637044, 'Final Value': 19039.26818359375}
 Error: HRS : Blame Jimmy for not fixing these errors
-Netural: HIG : {'DrawDown': 48.59245593629847, 'Sharpe Ratio:': 0.48080194134663695, 'Returns:': 10.290441089949816, 'Final Value': 265890.9353980235}
-Netural: HAS : {'DrawDown': 34.23131206789195, 'Sharpe Ratio:': 0.6246317139793393, 'Returns:': 12.490549691120888, 'Final Value': 323853.8200344462}
+Netural: HIG : {'DrawDown': 47.88924549957192, 'Sharpe Ratio:': 0.5028159475252777, 'Returns:': 10.54407730727247, 'Final Value': 272059.4095777087}
+Netural: HAS : {'DrawDown': 34.06701107498664, 'Sharpe Ratio:': 0.6709142981721768, 'Returns:': 13.743121534356796, 'Final Value': 361712.6743891879}
 Error: HCP : Blame Jimmy for not fixing these errors
 Error: HCN : Blame Jimmy for not fixing these errors
-Negative: HNZ : {'DrawDown': 80.79216822863681, 'Sharpe Ratio:': 0.0299610505378641, 'Returns:': -1.4028497026580935, 'Final Value': 90705.76426065447}
-Netural: HP : {'DrawDown': 60.99805062231378, 'Sharpe Ratio:': 0.2088613830938575, 'Returns:': 3.4433306200300358, 'Final Value': 140214.06495232205}
-Netural: HES : {'DrawDown': 63.83557901437936, 'Sharpe Ratio:': 0.15182458001226712, 'Returns:': 1.3069855199566074, 'Final Value': 113842.49704659064}
-Netural: HPQ : {'DrawDown': 76.45464915114121, 'Sharpe Ratio:': 0.17601517356525795, 'Returns:': 0.631290282984442, 'Final Value': 106484.65554791183}
-Positive: HD : {'DrawDown': 25.523773829554315, 'Sharpe Ratio:': 1.516031742737319, 'Returns:': 19.770114851977663, 'Final Value': 605676.9325817616}
-Netural: HON : {'DrawDown': 30.67453794836639, 'Sharpe Ratio:': 1.0270769225435588, 'Returns:': 13.65083735578822, 'Final Value': 358793.27413184237}
-Positive: HRL : {'DrawDown': 29.526209702101667, 'Sharpe Ratio:': 1.140297800100247, 'Returns:': 15.227848068842912, 'Final Value': 411715.6833824889}
+Netural: HNZ : {'DrawDown': 77.79228418483244, 'Sharpe Ratio:': 0.37043580449652785, 'Returns:': 26.648665184577254, 'Final Value': 511014.0382531167}
+Netural: HP : {'DrawDown': 60.9924478346468, 'Sharpe Ratio:': 0.12052952112211246, 'Returns:': 1.2972596101635996, 'Final Value': 113733.42384318629}
+Netural: HES : {'DrawDown': 64.92545359188676, 'Sharpe Ratio:': 0.11655429246030205, 'Returns:': 0.12233114543811208, 'Final Value': 101228.10324984242}
+Netural: HPQ : {'DrawDown': 76.45462877449485, 'Sharpe Ratio:': 0.19173551789949167, 'Returns:': 1.241139761130727, 'Final Value': 113105.89101986965}
+Positive: HD : {'DrawDown': 25.131621373576262, 'Sharpe Ratio:': 1.3272059413535877, 'Returns:': 15.885216507309721, 'Final Value': 435776.74123468186}
+Positive: HON : {'DrawDown': 29.95085504370694, 'Sharpe Ratio:': 1.027342943831075, 'Returns:': 14.056123167067183, 'Final Value': 371774.3399812821}
+Positive: HRL : {'DrawDown': 29.538555247444247, 'Sharpe Ratio:': 1.0456193415064763, 'Returns:': 14.298287110719551, 'Final Value': 379730.9143935095}
 Error: HSP : Blame Jimmy for not fixing these errors
-Netural: HST : {'DrawDown': 47.74070070166024, 'Sharpe Ratio:': 0.30634076792009035, 'Returns:': 5.05523945632966, 'Final Value': 163620.30815249987}
+Netural: HST : {'DrawDown': 47.96422802270665, 'Sharpe Ratio:': 0.32027531243016005, 'Returns:': 5.419624108083221, 'Final Value': 169375.58200857678}
 Error: HCBK : Blame Jimmy for not fixing these errors
-Netural: HUM : {'DrawDown': 33.42852635888419, 'Sharpe Ratio:': 0.9938492500154896, 'Returns:': 21.37519688492884, 'Final Value': 691773.7494653123}
-Netural: HBAN : {'DrawDown': 39.614167715171554, 'Sharpe Ratio:': 0.6608722507049483, 'Returns:': 15.56607915527976, 'Final Value': 423942.0380350827}
-Netural: ITW : {'DrawDown': 32.05463814960072, 'Sharpe Ratio:': 0.6233086202288775, 'Returns:': 11.54233429773008, 'Final Value': 297607.7782748274}
-Netural: IR : {'DrawDown': 48.14852392564286, 'Sharpe Ratio:': 0.5202066105779327, 'Returns:': 17.24219531117957, 'Final Value': 152065.50335740377}
-Negative: TEG : {'DrawDown': 55.97202046875, 'Sharpe Ratio:': -0.5527055819127266, 'Returns:': -17.369433032150056, 'Final Value': 46548.46}
-Netural: INTC : {'DrawDown': 29.43065581287237, 'Sharpe Ratio:': 0.8230006128300125, 'Returns:': 11.989551338112667, 'Final Value': 309737.97315435676}
-Netural: ICE : {'DrawDown': 25.874082801389555, 'Sharpe Ratio:': 0.7943020123442808, 'Returns:': 14.102882976376188, 'Final Value': 373298.89665910264}
-Netural: IBM : {'DrawDown': 40.186740617828825, 'Sharpe Ratio:': 0.1268345380665293, 'Returns:': 1.7943128765153078, 'Final Value': 119429.7591018428}
-Netural: IFF : {'DrawDown': 29.65514280143212, 'Sharpe Ratio:': 0.6559311903116485, 'Returns:': 9.476965803884724, 'Final Value': 246946.77109220027}
-Negative: IGT : {'DrawDown': 59.47930642818557, 'Sharpe Ratio:': -0.0023854120905722758, 'Returns:': -1.3738465027121218, 'Final Value': 87099.63190232399}
-Netural: IP : {'DrawDown': 41.23280503184036, 'Sharpe Ratio:': 0.38319034721951173, 'Returns:': 7.258314820391837, 'Final Value': 201292.06803938266}
-Netural: IPG : {'DrawDown': 44.73713088311357, 'Sharpe Ratio:': 0.6620428549632373, 'Returns:': 12.365164294491409, 'Final Value': 320267.76839629933}
-Positive: INTU : {'DrawDown': 28.55570418133454, 'Sharpe Ratio:': 1.4835394837720306, 'Returns:': 19.56403749125769, 'Final Value': 595352.2037093885}
-Netural: ISRG : {'DrawDown': 39.010353223011485, 'Sharpe Ratio:': 0.6237320387067906, 'Returns:': 14.54702720527985, 'Final Value': 388062.7659251785}
-Negative: IVZ : {'DrawDown': 56.77300228525388, 'Sharpe Ratio:': 0.05082652589028329, 'Returns:': -1.39622249125785, 'Final Value': 86902.53763904762}
-Netural: IRM : {'DrawDown': 36.31977728932064, 'Sharpe Ratio:': 0.4709773684443456, 'Returns:': 7.75122213824972, 'Final Value': 210720.80129212106}
-Netural: JBL : {'DrawDown': 43.21417091487722, 'Sharpe Ratio:': 0.4307717324138139, 'Returns:': 8.556001854735012, 'Final Value': 226972.09365683387}
+Netural: HUM : {'DrawDown': 32.520508410660405, 'Sharpe Ratio:': 1.0963547607911517, 'Returns:': 19.288770797271496, 'Final Value': 581808.1069127701}
+Netural: HBAN : {'DrawDown': 38.85110976408937, 'Sharpe Ratio:': 0.7069714459772866, 'Returns:': 15.399914070551501, 'Final Value': 417895.2797459929}
+Netural: ITW : {'DrawDown': 31.364628095919308, 'Sharpe Ratio:': 0.7192341487819415, 'Returns:': 14.206933066699733, 'Final Value': 376711.55113832036}
+Netural: IR : {'DrawDown': 44.30867922537886, 'Sharpe Ratio:': 0.5323240443192745, 'Returns:': 17.77957749987391, 'Final Value': 153908.91928101468}
+Negative: TEG : {'DrawDown': 61.047960456883565, 'Sharpe Ratio:': -0.531816846894585, 'Returns:': -19.413061919174982, 'Final Value': 42103.15961914063}
+Netural: INTC : {'DrawDown': 29.359857816660266, 'Sharpe Ratio:': 0.7870087873491295, 'Returns:': 10.570613542449664, 'Final Value': 272712.1583038123}
+Netural: ICE : {'DrawDown': 25.595172640291057, 'Sharpe Ratio:': 0.7763999921404989, 'Returns:': 14.561747263047527, 'Final Value': 388560.94843564124}
+Netural: IBM : {'DrawDown': 40.1406310177958, 'Sharpe Ratio:': 0.12453312001834206, 'Returns:': 1.7615872807407456, 'Final Value': 119046.9699692409}
+Netural: IFF : {'DrawDown': 29.64081622268252, 'Sharpe Ratio:': 0.7331741685332915, 'Returns:': 10.825115911876923, 'Final Value': 279044.4564953905}
+Netural: IGT : {'DrawDown': 59.37898001727363, 'Sharpe Ratio:': 0.0566842033888672, 'Returns:': 0.2660157919587299, 'Final Value': 102687.89854563164}
+Netural: IP : {'DrawDown': 41.76724906776228, 'Sharpe Ratio:': 0.38854258600768055, 'Returns:': 7.165098041652766, 'Final Value': 199552.2452719005}
+Netural: IPG : {'DrawDown': 43.50507983586825, 'Sharpe Ratio:': 0.8334419420189055, 'Returns:': 12.534294613906694, 'Final Value': 325113.41091750155}
+Positive: INTU : {'DrawDown': 28.526956141515672, 'Sharpe Ratio:': 1.5273861404698048, 'Returns:': 20.431763045276714, 'Final Value': 639924.6478154416}
+Netural: ISRG : {'DrawDown': 39.95569128569892, 'Sharpe Ratio:': 0.6129677972106414, 'Returns:': 15.991309772309103, 'Final Value': 439776.37876251223}
+Negative: IVZ : {'DrawDown': 56.60339991291919, 'Sharpe Ratio:': 0.09114157908135506, 'Returns:': -0.3901412880346536, 'Final Value': 96172.34110705636}
+Netural: IRM : {'DrawDown': 36.0604172724594, 'Sharpe Ratio:': 0.4397434534363807, 'Returns:': 7.16092096036339, 'Final Value': 199474.6008544352}
+Netural: JBL : {'DrawDown': 43.21417692002175, 'Sharpe Ratio:': 0.4751696994619517, 'Returns:': 8.784745443359796, 'Final Value': 231792.5929912851}
 Error: JEC : Blame Jimmy for not fixing these errors
 Error: JDSU : Blame Jimmy for not fixing these errors
-Positive: JNJ : {'DrawDown': 14.70272148235131, 'Sharpe Ratio:': 1.3446727830918772, 'Returns:': 10.154196623635384, 'Final Value': 262629.6718414965}
-Netural: JCI : {'DrawDown': 33.28238870716599, 'Sharpe Ratio:': 0.44332687957669886, 'Returns:': 8.642630163731843, 'Final Value': 228786.96517233847}
+Positive: JNJ : {'DrawDown': 13.91254500993675, 'Sharpe Ratio:': 1.4072988816693115, 'Returns:': 10.522549647830093, 'Final Value': 271530.89704056416}
+Netural: JCI : {'DrawDown': 33.668449562544325, 'Sharpe Ratio:': 0.5544087738394307, 'Returns:': 11.169457163425214, 'Final Value': 287822.6198039494}
 Error: JOY : Blame Jimmy for not fixing these errors
-Netural: JPM : {'DrawDown': 39.0168649486377, 'Sharpe Ratio:': 0.5935710436068472, 'Returns:': 10.257175289161994, 'Final Value': 265091.3121972945}
-Netural: JNPR : {'DrawDown': 67.20924054393089, 'Sharpe Ratio:': 0.08943161510084871, 'Returns:': 0.4074821938195876, 'Final Value': 104143.63593643674}
-Netural: K : {'DrawDown': 32.13540249956447, 'Sharpe Ratio:': 0.42338508792204527, 'Returns:': 4.9381959698076, 'Final Value': 161809.36698156345}
-Netural: KEY : {'DrawDown': 39.70213601913751, 'Sharpe Ratio:': 0.5513889334109009, 'Returns:': 10.997468512929858, 'Final Value': 283407.59559090494}
-Netural: KMB : {'DrawDown': 24.467861534446335, 'Sharpe Ratio:': 0.8546950546723996, 'Returns:': 9.018948130765745, 'Final Value': 236823.3960316843}
-Error: KIM : Blame Jimmy for not fixing these errors
-Negative: KMI : {'DrawDown': 71.07155538656053, 'Sharpe Ratio:': 0.1463819014385996, 'Returns:': -0.7127166986179466, 'Final Value': 93850.61204507205}
-Netural: KLAC : {'DrawDown': 34.36326664228622, 'Sharpe Ratio:': 0.7694021536507076, 'Returns:': 18.55905567392377, 'Final Value': 547234.8506696245}
-Netural: KSS : {'DrawDown': 54.028842821721, 'Sharpe Ratio:': 0.08279843331435076, 'Returns:': 1.0026431609062356, 'Final Value': 110473.62813314956}
+Netural: JPM : {'DrawDown': 39.423351357760744, 'Sharpe Ratio:': 0.6813687424931855, 'Returns:': 12.506651615280656, 'Final Value': 324316.9470588988}
+Negative: JNPR : {'DrawDown': 65.85017327184795, 'Sharpe Ratio:': -0.028017377213356665, 'Returns:': -1.4739809852781562, 'Final Value': 86220.73466267073}
+Netural: K : {'DrawDown': 31.697139668062807, 'Sharpe Ratio:': 0.4076849670940362, 'Returns:': 4.936900319685584, 'Final Value': 161789.42153269998}
+Netural: KEY : {'DrawDown': 38.103093911933335, 'Sharpe Ratio:': 0.6349458859314394, 'Returns:': 14.263631771320512, 'Final Value': 378582.9588965283}
+Netural: KMB : {'DrawDown': 24.62753861557752, 'Sharpe Ratio:': 0.9389749248912104, 'Returns:': 9.519016218685605, 'Final Value': 247895.4307608257}
+Netural: KIM : {'DrawDown': 54.147712357719364, 'Sharpe Ratio:': 0.44150312381925794, 'Returns:': 8.440063227315763, 'Final Value': 224563.4406071974}
+Negative: KMI : {'DrawDown': 71.17636628095262, 'Sharpe Ratio:': 0.12293721760243125, 'Returns:': -1.4673398195569116, 'Final Value': 87707.57101848234}
+Netural: KLAC : {'DrawDown': 34.24816901918446, 'Sharpe Ratio:': 0.8748644662868021, 'Returns:': 17.995058122626347, 'Final Value': 521792.0883173506}
+Netural: KSS : {'DrawDown': 53.965654722197854, 'Sharpe Ratio:': 0.10207995187762474, 'Returns:': 1.0486613550779114, 'Final Value': 110977.19200191795}
 Error: KFT : Blame Jimmy for not fixing these errors
-Netural: KR : {'DrawDown': 50.03948673159659, 'Sharpe Ratio:': 0.3978169590692437, 'Returns:': 6.854202443351917, 'Final Value': 193846.98980539787}
+Netural: KR : {'DrawDown': 51.005837694521205, 'Sharpe Ratio:': 0.4561735609774877, 'Returns:': 7.410573668306271, 'Final Value': 204163.24084788043}
 Error: LLL : Blame Jimmy for not fixing these errors
-Netural: LH : {'DrawDown': 35.72074835627373, 'Sharpe Ratio:': 0.4360572126117414, 'Returns:': 6.602375810854996, 'Final Value': 189333.7747561728}
-Netural: LRCX : {'DrawDown': 43.94876235666053, 'Sharpe Ratio:': 0.5865764414073102, 'Returns:': 17.45358433582282, 'Final Value': 498372.1424057381}
+Netural: LH : {'DrawDown': 34.856352169799386, 'Sharpe Ratio:': 0.46789771834522337, 'Returns:': 6.502998359108105, 'Final Value': 187578.9198727461}
+Netural: LRCX : {'DrawDown': 43.9478748029005, 'Sharpe Ratio:': 0.6708609562253015, 'Returns:': 21.41248024561399, 'Final Value': 693898.2586614011}
 Error: LM : Blame Jimmy for not fixing these errors
-Netural: LEG : {'DrawDown': 32.7955255485876, 'Sharpe Ratio:': 0.5660764004046032, 'Returns:': 8.859696377473632, 'Final Value': 233392.0155156809}
-Netural: LEN : {'DrawDown': 44.863665776022884, 'Sharpe Ratio:': 0.558577346741193, 'Returns:': 15.492939322222805, 'Final Value': 421270.8416917}
+Netural: LEG : {'DrawDown': 32.79591783137085, 'Sharpe Ratio:': 0.6671002948225578, 'Returns:': 10.523650053482124, 'Final Value': 271557.8900117708}
+Netural: LEN : {'DrawDown': 45.930363507604156, 'Sharpe Ratio:': 0.5374333465855213, 'Returns:': 13.306513469059947, 'Final Value': 348086.8149948794}
 Error: LUK : Blame Jimmy for not fixing these errors
 Error: LXK : Blame Jimmy for not fixing these errors
-Negative: LIFE : {'DrawDown': 98.12864863073696, 'Sharpe Ratio:': -0.7422599647718509, 'Returns:': -54.22803489571619, 'Final Value': 2639.4812426757853}
-Positive: LLY : {'DrawDown': 24.099584177692392, 'Sharpe Ratio:': 1.0894509204987846, 'Returns:': 13.71980384160866, 'Final Value': 360973.0106080373}
+Negative: LIFE : {'DrawDown': 97.97641596073258, 'Sharpe Ratio:': -0.7442562894320103, 'Returns:': -54.53583474494086, 'Final Value': 2557.9390352630617}
+Positive: LLY : {'DrawDown': 23.414783907587296, 'Sharpe Ratio:': 1.189961455058571, 'Returns:': 13.421128126689894, 'Final Value': 351618.2985155432}
 Error: LTD : Blame Jimmy for not fixing these errors
-Netural: LNC : {'DrawDown': 54.9722481591972, 'Sharpe Ratio:': 0.31924714483969746, 'Returns:': 6.4694496044891245, 'Final Value': 186989.8127911464}
+Netural: LNC : {'DrawDown': 56.36685686601022, 'Sharpe Ratio:': 0.3840235492419294, 'Returns:': 7.80313209991528, 'Final Value': 211736.54945794307}
 Error: LLTC : Blame Jimmy for not fixing these errors
-Netural: LMT : {'DrawDown': 30.129362181479365, 'Sharpe Ratio:': 0.8577314557089243, 'Returns:': 15.601192724169058, 'Final Value': 425229.8545853783}
-Netural: L : {'DrawDown': 29.04028754665597, 'Sharpe Ratio:': 0.3144118491653585, 'Returns:': 3.969222318918783, 'Final Value': 147495.7901864446}
+Netural: LMT : {'DrawDown': 29.752523277549173, 'Sharpe Ratio:': 0.8598341652478002, 'Returns:': 16.31206916212689, 'Final Value': 452070.4861538302}
+Netural: L : {'DrawDown': 29.331002786734256, 'Sharpe Ratio:': 0.209000310863611, 'Returns:': 2.7972115378393116, 'Final Value': 131711.33818350887}
 Error: LO : Blame Jimmy for not fixing these errors
-Netural: LOW : {'DrawDown': 32.33196860105087, 'Sharpe Ratio:': 0.8503253656437617, 'Returns:': 14.96723736926173, 'Final Value': 402512.5830672326}
-Netural: LSI : {'DrawDown': 36.59141620700405, 'Sharpe Ratio:': 0.9081035024739795, 'Returns:': 13.530986439917244, 'Final Value': 355033.4571694711}
-Netural: MTB : {'DrawDown': 29.694521554960172, 'Sharpe Ratio:': 0.6500689897481876, 'Returns:': 9.497940959148577, 'Final Value': 247419.56262129857}
-Netural: M : {'DrawDown': 75.81772169495494, 'Sharpe Ratio:': 0.18735953898731103, 'Returns:': 1.6081482386484498, 'Final Value': 117266.88512007384}
-Negative: MRO : {'DrawDown': 82.31720228525208, 'Sharpe Ratio:': -0.06923301603115604, 'Returns:': -4.049101509662588, 'Final Value': 66187.41112607258}
-Netural: MPC : {'DrawDown': 47.73939433295923, 'Sharpe Ratio:': 0.5581621049874775, 'Returns:': 14.700699549144236, 'Final Value': 321206.4909509359}
-Netural: MAR : {'DrawDown': 38.1110127478317, 'Sharpe Ratio:': 0.658920332599284, 'Returns:': 14.366383995090306, 'Final Value': 381995.74725161446}
-Positive: MMC : {'DrawDown': 18.7483821876918, 'Sharpe Ratio:': 1.3011788863869806, 'Returns:': 16.80818893197617, 'Final Value': 471695.6807208308}
-Netural: MAS : {'DrawDown': 53.59404124093437, 'Sharpe Ratio:': 0.602591403289345, 'Returns:': 15.412833129142282, 'Final Value': 418362.607265142}
-Positive: MA : {'DrawDown': 27.928235038097114, 'Sharpe Ratio:': 1.1062871458362542, 'Returns:': 23.799716794345933, 'Final Value': 842800.4743859159}
-Negative: MAT : {'DrawDown': 76.33162941652, 'Sharpe Ratio:': -0.01781576883507632, 'Returns:': -3.3398568004746525, 'Final Value': 71237.47370988093}
-Positive: MKC : {'DrawDown': 21.706978610940993, 'Sharpe Ratio:': 2.2052699381930267, 'Returns:': 15.575625832702796, 'Final Value': 424291.8217710358}
-Netural: MCD : {'DrawDown': 16.12503727805858, 'Sharpe Ratio:': 0.8841046247275166, 'Returns:': 10.04869419153445, 'Final Value': 260129.05264046177}
-Netural: MHP : {'DrawDown': 33.03636735500336, 'Sharpe Ratio:': 0.08250614951371507, 'Returns:': 2.2809666705930933, 'Final Value': 109735.04504583121}
-Netural: MCK : {'DrawDown': 53.447006476961064, 'Sharpe Ratio:': 0.28786102681627074, 'Returns:': 4.8044601422221875, 'Final Value': 159762.24839510792}
+Netural: LOW : {'DrawDown': 34.930051259160486, 'Sharpe Ratio:': 0.8791718706684143, 'Returns:': 16.206970712638654, 'Final Value': 448008.61965320737}
+Netural: LSI : {'DrawDown': 36.679412789967635, 'Sharpe Ratio:': 0.9801817240280023, 'Returns:': 15.057038387257466, 'Final Value': 405662.65918927727}
+Netural: MTB : {'DrawDown': 28.77383760618643, 'Sharpe Ratio:': 0.6521916762046386, 'Returns:': 9.033151369775926, 'Final Value': 237131.62559228553}
+Netural: M : {'DrawDown': 74.61643895194315, 'Sharpe Ratio:': 0.18378150884977265, 'Returns:': 1.6741797621273289, 'Final Value': 118029.97626623558}
+Negative: MRO : {'DrawDown': 82.18780269357158, 'Sharpe Ratio:': 0.05142797889208556, 'Returns:': -1.556255756677094, 'Final Value': 85504.57635138053}
+Netural: MPC : {'DrawDown': 45.126008134250185, 'Sharpe Ratio:': 0.5627611130996075, 'Returns:': 13.562019613599402, 'Final Value': 295066.4094119693}
+Netural: MAR : {'DrawDown': 37.08405409034539, 'Sharpe Ratio:': 0.643129559034469, 'Returns:': 13.885562876914431, 'Final Value': 366260.7649752563}
+Positive: MMC : {'DrawDown': 18.625740536954726, 'Sharpe Ratio:': 1.3110740870537356, 'Returns:': 16.856132286246922, 'Final Value': 473632.2274695986}
+Netural: MAS : {'DrawDown': 60.38173087218179, 'Sharpe Ratio:': 0.6443312733228825, 'Returns:': 17.55016065939188, 'Final Value': 502478.65262051445}
+Positive: MA : {'DrawDown': 27.928264294056707, 'Sharpe Ratio:': 1.0300533460840358, 'Returns:': 24.72502676371199, 'Final Value': 907847.6734059091}
+Negative: MAT : {'DrawDown': 75.51978469743122, 'Sharpe Ratio:': -0.05570140983995331, 'Returns:': -3.9175951524228827, 'Final Value': 67098.70511410435}
+Positive: MKC : {'DrawDown': 21.640946220144766, 'Sharpe Ratio:': 1.898990916710512, 'Returns:': 15.80859666116741, 'Final Value': 432908.6175629224}
+Netural: MCD : {'DrawDown': 16.17474454652031, 'Sharpe Ratio:': 0.9015626178623695, 'Returns:': 11.83545530654651, 'Final Value': 305508.99293288327}
+Negative: MHP : {'DrawDown': 33.03636735500336, 'Sharpe Ratio:': -0.028092952090444108, 'Returns:': -0.21120657688476213, 'Final Value': 99132.89130161166}
+Netural: MCK : {'DrawDown': 53.453073730950436, 'Sharpe Ratio:': 0.2499002178520436, 'Returns:': 3.8869315228470738, 'Final Value': 146334.36138176284}
 Error: MJN : Blame Jimmy for not fixing these errors
 Error: MWV : Blame Jimmy for not fixing these errors
-Netural: MDT : {'DrawDown': 31.291668077798942, 'Sharpe Ratio:': 0.6661250424671479, 'Returns:': 9.20755798922527, 'Final Value': 240946.028962307}
-Netural: MRK : {'DrawDown': 22.424739506010667, 'Sharpe Ratio:': 0.8572150848208677, 'Returns:': 9.98740075883739, 'Final Value': 258686.13453231615}
-Netural: MET : {'DrawDown': 44.287834958568894, 'Sharpe Ratio:': 0.3527852823037207, 'Returns:': 6.82761618595251, 'Final Value': 193365.98500568603}
+Netural: MDT : {'DrawDown': 31.291704724815872, 'Sharpe Ratio:': 0.7134207172021235, 'Returns:': 9.149608853243464, 'Final Value': 239672.5576497368}
+Netural: MRK : {'DrawDown': 22.424760772415198, 'Sharpe Ratio:': 0.8118238418613825, 'Returns:': 9.820835739670242, 'Final Value': 254801.30865575784}
+Netural: MET : {'DrawDown': 46.76667623721634, 'Sharpe Ratio:': 0.3163369651116182, 'Returns:': 6.216540748321053, 'Final Value': 182602.10681214824}
 Error: PCS : Blame Jimmy for not fixing these errors
-Netural: MCHP : {'DrawDown': 40.38563621086259, 'Sharpe Ratio:': 0.7569275763900666, 'Returns:': 14.89836440006555, 'Final Value': 400111.5626430844}
-Netural: MU : {'DrawDown': 72.34192961575434, 'Sharpe Ratio:': 0.35931369194378054, 'Returns:': 7.750801857970995, 'Final Value': 210712.5953830057}
-Netural: MSFT : {'DrawDown': 26.0144403312206, 'Sharpe Ratio:': 0.965322732399382, 'Returns:': 18.43065222779406, 'Final Value': 541346.2259637862}
-Netural: MOLX : {'DrawDown': 33.152317007148035, 'Sharpe Ratio:': 0.8372235967702153, 'Returns:': 13.244833076716544, 'Final Value': 163090.8085067368}
-Netural: TAP : {'DrawDown': 52.06734797969436, 'Sharpe Ratio:': 0.13741994452031325, 'Returns:': 1.8550650635379344, 'Final Value': 120143.31114194875}
+Netural: MCHP : {'DrawDown': 38.74065937541272, 'Sharpe Ratio:': 0.8039355054879587, 'Returns:': 14.313127631164836, 'Final Value': 380223.4626394633}
+Netural: MU : {'DrawDown': 73.0880204007434, 'Sharpe Ratio:': 0.3850379921239055, 'Returns:': 9.279409000345334, 'Final Value': 242533.45664882127}
+Positive: MSFT : {'DrawDown': 26.014473650260243, 'Sharpe Ratio:': 1.1195575244399893, 'Returns:': 18.614269267863882, 'Final Value': 549784.6372987181}
+Netural: MOLX : {'DrawDown': 33.14310794900204, 'Sharpe Ratio:': 0.6773406181696273, 'Returns:': 10.967122457752483, 'Final Value': 150566.5411002922}
+Netural: TAP : {'DrawDown': 51.318105660050485, 'Sharpe Ratio:': 0.11527008577618195, 'Returns:': 1.4916187660973692, 'Final Value': 115931.03901393141}
 Error: MON : Blame Jimmy for not fixing these errors
-Netural: MNST : {'DrawDown': 46.58753595568382, 'Sharpe Ratio:': 1.0320842664298544, 'Returns:': 24.826789559589752, 'Final Value': 915270.182878461}
-Netural: MCO : {'DrawDown': 38.20360560599933, 'Sharpe Ratio:': 0.9007313228510225, 'Returns:': 21.497804118726464, 'Final Value': 698782.3583920548}
-Netural: MS : {'DrawDown': 61.20026493261886, 'Sharpe Ratio:': 0.31085026872357807, 'Returns:': 5.82254344262925, 'Final Value': 175951.0349503539}
-Negative: MOS : {'DrawDown': 73.2067136631869, 'Sharpe Ratio:': -0.3962301544871104, 'Returns:': -8.15676856849258, 'Final Value': 42762.00986725952}
-Positive: MSI : {'DrawDown': 24.04712091786503, 'Sharpe Ratio:': 1.5981253405180198, 'Returns:': 17.405992492540094, 'Final Value': 496359.6245206932}
-Negative: MUR : {'DrawDown': 74.61200253911467, 'Sharpe Ratio:': 0.017236542576899487, 'Returns:': -3.1975534533600074, 'Final Value': 72291.5210780393}
+Netural: MNST : {'DrawDown': 44.18481474186047, 'Sharpe Ratio:': 0.8763710205241646, 'Returns:': 21.217002829390385, 'Final Value': 682824.3664979408}
+Netural: MCO : {'DrawDown': 37.81442545874287, 'Sharpe Ratio:': 0.880092899343007, 'Returns:': 21.20936316817821, 'Final Value': 682394.823430251}
+Netural: MS : {'DrawDown': 61.200261227615464, 'Sharpe Ratio:': 0.34987655865775874, 'Returns:': 7.148453775072322, 'Final Value': 199243.01996278163}
+Negative: MOS : {'DrawDown': 75.55507349035254, 'Sharpe Ratio:': -0.3044577610785197, 'Returns:': -8.36906652573601, 'Final Value': 41785.308706717624}
+Positive: MSI : {'DrawDown': 24.047153022128562, 'Sharpe Ratio:': 2.2469137591596624, 'Returns:': 14.48474086660756, 'Final Value': 385961.1155146599}
+Negative: MUR : {'DrawDown': 74.68651811347817, 'Sharpe Ratio:': 0.03099697371676611, 'Returns:': -2.851714126899169, 'Final Value': 74911.9088187306}
 Error: MYL : Blame Jimmy for not fixing these errors
-Negative: NBR : {'DrawDown': 94.26463390282477, 'Sharpe Ratio:': -0.1752117538007081, 'Returns:': -18.178194342355155, 'Final Value': 13491.91586662253}
-Netural: NDAQ : {'DrawDown': 30.731458392623022, 'Sharpe Ratio:': 1.2979769523745912, 'Returns:': 16.20496319779399, 'Final Value': 447931.3534896139}
-Negative: NOV : {'DrawDown': 76.41444788112815, 'Sharpe Ratio:': -0.2139298981272294, 'Returns:': -5.878452944446161, 'Final Value': 54614.53039255057}
-Netural: NTAP : {'DrawDown': 60.56665375721341, 'Sharpe Ratio:': 0.3030939007878163, 'Returns:': 5.666620386934237, 'Final Value': 173379.68417346876}
-Netural: NFLX : {'DrawDown': 81.42269746796752, 'Sharpe Ratio:': 0.6012202817272028, 'Returns:': 38.46337860267179, 'Final Value': 2576949.0583770466}
-Netural: NWL : {'DrawDown': 73.00913680329191, 'Sharpe Ratio:': 0.2380739921785193, 'Returns:': 3.7860444600302494, 'Final Value': 144921.70286201496}
-Negative: NFX : {'DrawDown': 82.05081116757206, 'Sharpe Ratio:': -0.16040771407264845, 'Returns:': -10.404609767909779, 'Final Value': 36799.11916717528}
-Netural: NEM : {'DrawDown': 76.07388466377712, 'Sharpe Ratio:': 0.15763404006696818, 'Returns:': 1.030627224658015, 'Final Value': 110779.60411240932}
-Negative: NWSA : {'DrawDown': 42.85275596134167, 'Sharpe Ratio:': 0.07516183259276725, 'Returns:': -0.002885685408137325, 'Final Value': 99981.15294010768}
-Positive: NEE : {'DrawDown': 15.2061612272551, 'Sharpe Ratio:': 1.4914178636075206, 'Returns:': 15.786913419696006, 'Final Value': 432100.03477369645}
-Positive: NKE : {'DrawDown': 25.243986019188483, 'Sharpe Ratio:': 1.0094479744519036, 'Returns:': 17.228059579467402, 'Final Value': 488899.9855638068}
-Positive: NI : {'DrawDown': 18.735073806436915, 'Sharpe Ratio:': 1.667077261704147, 'Returns:': 17.31539080597194, 'Final Value': 492548.5489534422}
+Negative: NBR : {'DrawDown': 92.61824331673539, 'Sharpe Ratio:': -0.1954115868919028, 'Returns:': -17.64521357181363, 'Final Value': 14395.499041931618}
+Positive: NDAQ : {'DrawDown': 29.550654561354666, 'Sharpe Ratio:': 1.1572353398575548, 'Returns:': 16.820174653549074, 'Final Value': 472179.1435382762}
+Negative: NOV : {'DrawDown': 75.74098377184153, 'Sharpe Ratio:': -0.27169908718935454, 'Returns:': -6.402024872594807, 'Final Value': 51655.98203714402}
+Netural: NTAP : {'DrawDown': 62.79508237795631, 'Sharpe Ratio:': 0.33339329278531254, 'Returns:': 6.868443499691821, 'Final Value': 194105.08491386526}
+Netural: NFLX : {'DrawDown': 79.27709880115698, 'Sharpe Ratio:': 0.5925043902994147, 'Returns:': 33.87365530666555, 'Final Value': 1840518.4793609618}
+Netural: NWL : {'DrawDown': 73.0387086444326, 'Sharpe Ratio:': 0.2823965686900331, 'Returns:': 5.000519070867263, 'Final Value': 162771.39591477133}
+Negative: NFX : {'DrawDown': 82.04416878394059, 'Sharpe Ratio:': -0.26506175360252154, 'Returns:': -12.094692133128039, 'Final Value': 30944.383583374027}
+Netural: NEM : {'DrawDown': 75.18800321983954, 'Sharpe Ratio:': 0.2045397238083205, 'Returns:': 2.568409217038592, 'Final Value': 128813.49966181959}
+Netural: NWSA : {'DrawDown': 42.324398252460014, 'Sharpe Ratio:': 0.09042921102105475, 'Returns:': 0.40667100020454594, 'Final Value': 102686.33364737497}
+Positive: NEE : {'DrawDown': 15.206177148845498, 'Sharpe Ratio:': 1.3489419350487526, 'Returns:': 14.780161128060898, 'Final Value': 396020.83358365105}
+Positive: NKE : {'DrawDown': 25.124888891821584, 'Sharpe Ratio:': 1.0360976858745157, 'Returns:': 15.73313073624962, 'Final Value': 430100.304666729}
+Positive: NI : {'DrawDown': 17.721677510187234, 'Sharpe Ratio:': 1.273049127125607, 'Returns:': 16.213766457413172, 'Final Value': 448270.2664577171}
 Error: NE : Blame Jimmy for not fixing these errors
 Error: NBL : Blame Jimmy for not fixing these errors
-Netural: JWN : {'DrawDown': 61.8110644646882, 'Sharpe Ratio:': 0.2335302988251896, 'Returns:': 3.371489931990193, 'Final Value': 139244.8609847196}
-Netural: NSC : {'DrawDown': 41.0425173957505, 'Sharpe Ratio:': 0.6768252870764196, 'Returns:': 12.588066808703324, 'Final Value': 326667.7659464346}
-Netural: NTRS : {'DrawDown': 39.877441200592344, 'Sharpe Ratio:': 0.46444139299302817, 'Returns:': 7.884725210222563, 'Final Value': 213342.03006798413}
-Netural: NOC : {'DrawDown': 35.71613393977508, 'Sharpe Ratio:': 1.0061409415960574, 'Returns:': 17.25993260081523, 'Final Value': 490228.7630463372}
+Netural: JWN : {'DrawDown': 62.15805277703849, 'Sharpe Ratio:': 0.25167073138053214, 'Returns:': 3.6866747060889415, 'Final Value': 143542.2983013174}
+Netural: NSC : {'DrawDown': 41.162967140939166, 'Sharpe Ratio:': 0.707392873191262, 'Returns:': 13.199005850239665, 'Final Value': 344803.35498308006}
+Netural: NTRS : {'DrawDown': 39.96473722686004, 'Sharpe Ratio:': 0.5155336310620529, 'Returns:': 8.763131990726224, 'Final Value': 231333.20649138416}
+Netural: NOC : {'DrawDown': 35.85530138225424, 'Sharpe Ratio:': 0.9787719177941204, 'Returns:': 16.646938240254407, 'Final Value': 465234.5474186904}
 Error: NU : Blame Jimmy for not fixing these errors
-Netural: NRG : {'DrawDown': 74.15600287708087, 'Sharpe Ratio:': 0.2731161873104372, 'Returns:': 5.2662290802297065, 'Final Value': 166930.94866211695}
-Netural: NUE : {'DrawDown': 36.0786583911518, 'Sharpe Ratio:': 0.22900564331187892, 'Returns:': 3.754719559172301, 'Final Value': 144485.58334206682}
-Netural: NVDA : {'DrawDown': 55.23807139833094, 'Sharpe Ratio:': 0.5834925260056383, 'Returns:': 20.12384201321773, 'Final Value': 623775.316818012}
+Netural: NRG : {'DrawDown': 74.0623411045235, 'Sharpe Ratio:': 0.28171309809464956, 'Returns:': 5.512826037132347, 'Final Value': 170876.613302922}
+Netural: NUE : {'DrawDown': 35.380751693930215, 'Sharpe Ratio:': 0.24685174288988626, 'Returns:': 3.925132371873262, 'Final Value': 146872.4898738765}
+Netural: NVDA : {'DrawDown': 56.01644578577641, 'Sharpe Ratio:': 0.5644064962900213, 'Returns:': 15.878404848239397, 'Final Value': 435521.06854468107}
 Error: NYX : Blame Jimmy for not fixing these errors
-Netural: ORLY : {'DrawDown': 40.13043747825229, 'Sharpe Ratio:': 1.3570682330325146, 'Returns:': 21.80872562343483, 'Final Value': 716842.9546358109}
-Negative: OXY : {'DrawDown': 53.02646831436943, 'Sharpe Ratio:': -0.11894551017201867, 'Returns:': -2.350464818808487, 'Final Value': 78861.63356588717}
-Netural: OMC : {'DrawDown': 27.041734918124252, 'Sharpe Ratio:': 0.6390212850440571, 'Returns:': 8.12177045066062, 'Final Value': 218068.62283139655}
-Netural: OKE : {'DrawDown': 70.86932548144313, 'Sharpe Ratio:': 0.4287220488323044, 'Returns:': 13.411409679334568, 'Final Value': 351317.60965902277}
-Netural: ORCL : {'DrawDown': 30.199626332087522, 'Sharpe Ratio:': 0.46003759248313647, 'Returns:': 7.0439799944918935, 'Final Value': 197311.88242546908}
-Negative: OI : {'DrawDown': 75.79875135427774, 'Sharpe Ratio:': -0.20194188736605037, 'Returns:': -9.457879501994412, 'Final Value': 37084.42287948279}
-Netural: PCAR : {'DrawDown': 42.882525642624195, 'Sharpe Ratio:': 0.4776496577954083, 'Returns:': 10.60858298933985, 'Final Value': 273648.59659984265}
-Negative: PLL : {'DrawDown': 63.92636217235565, 'Sharpe Ratio:': -0.3290190311639253, 'Returns:': -30.199987429372026, 'Final Value': 48789.97804714203}
-Netural: PH : {'DrawDown': 37.358682846098176, 'Sharpe Ratio:': 0.5099169299773042, 'Returns:': 11.244276375672783, 'Final Value': 289762.50491616904}
-Negative: PDCO : {'DrawDown': 64.13982813922169, 'Sharpe Ratio:': -0.1405531195612344, 'Returns:': -3.045746998960382, 'Final Value': 73431.4105308563}
-Netural: PAYX : {'DrawDown': 23.52308674797176, 'Sharpe Ratio:': 0.8574488697752256, 'Returns:': 11.588281884886337, 'Final Value': 298834.03419462556}
-Negative: BTU : {'DrawDown': 78.37258278901542, 'Sharpe Ratio:': -0.5856278244685076, 'Returns:': -33.862858950822904, 'Final Value': 32131.974691634496}
+Netural: ORLY : {'DrawDown': 40.386160741973335, 'Sharpe Ratio:': 1.0569428388465651, 'Returns:': 19.697706099782543, 'Final Value': 602030.9499805832}
+Negative: OXY : {'DrawDown': 52.295706642911185, 'Sharpe Ratio:': -0.1266949769485581, 'Returns:': -2.32289498016655, 'Final Value': 79084.21594178218}
+Netural: OMC : {'DrawDown': 26.186564801931556, 'Sharpe Ratio:': 0.6828890669131786, 'Returns:': 8.814090374670823, 'Final Value': 232417.62327493454}
+Netural: OKE : {'DrawDown': 70.93358219913863, 'Sharpe Ratio:': 0.4031569696182675, 'Returns:': 12.323023260897793, 'Final Value': 319070.5723184446}
+Netural: ORCL : {'DrawDown': 27.938438543389136, 'Sharpe Ratio:': 0.46145216165187714, 'Returns:': 6.910980396173868, 'Final Value': 194877.83660147004}
+Negative: OI : {'DrawDown': 75.63370986311475, 'Sharpe Ratio:': -0.19781399382861112, 'Returns:': -9.329483608045903, 'Final Value': 37612.831897530705}
+Netural: PCAR : {'DrawDown': 41.984095689131294, 'Sharpe Ratio:': 0.4242452121113186, 'Returns:': 8.779608080849103, 'Final Value': 231683.32581156841}
+Negative: PLL : {'DrawDown': 58.80092952724295, 'Sharpe Ratio:': -0.22139090584041302, 'Returns:': -18.74990411025614, 'Final Value': 66070.19766860963}
+Netural: PH : {'DrawDown': 35.36148293730042, 'Sharpe Ratio:': 0.5038943660755852, 'Returns:': 10.708631537481457, 'Final Value': 276129.9611268521}
+Negative: PDCO : {'DrawDown': 64.21983197295326, 'Sharpe Ratio:': -0.0797717603422624, 'Returns:': -2.133746247248807, 'Final Value': 80626.59604067933}
+Netural: PAYX : {'DrawDown': 23.523115809514792, 'Sharpe Ratio:': 0.7572294779947434, 'Returns:': 9.620530809886112, 'Final Value': 250199.13405635735}
+Negative: BTU : {'DrawDown': 78.45412413414002, 'Sharpe Ratio:': -0.5888283439493589, 'Returns:': -34.221210825584535, 'Final Value': 31656.145799271784}
 Error: JCP : Blame Jimmy for not fixing these errors
 Error: PBCT : Blame Jimmy for not fixing these errors
-Negative: POM : {'DrawDown': 60.19802851618638, 'Sharpe Ratio:': -0.43823785378049973, 'Returns:': -8.374603487666818, 'Final Value': 42876.282695312504}
-Positive: PEP : {'DrawDown': 20.195495011277533, 'Sharpe Ratio:': 1.1739142872605077, 'Returns:': 8.949172801692951, 'Final Value': 235314.40617923543}
-Netural: PKI : {'DrawDown': 37.61424703573458, 'Sharpe Ratio:': 0.6389352290606389, 'Returns:': 12.618309313198367, 'Final Value': 327544.8997690828}
-Negative: PRGO : {'DrawDown': 80.13878130174294, 'Sharpe Ratio:': 0.11711218146417302, 'Returns:': -0.960167691968297, 'Final Value': 90816.64898693566}
-Netural: PFE : {'DrawDown': 27.593162964912295, 'Sharpe Ratio:': 0.8052797410289578, 'Returns:': 9.371658881482604, 'Final Value': 244585.3589126319}
-Negative: PCG : {'DrawDown': 93.71021305700003, 'Sharpe Ratio:': -0.2972907070085504, 'Returns:': -11.124951998792525, 'Final Value': 30804.311134803804}
-Netural: PM : {'DrawDown': 41.61678267063422, 'Sharpe Ratio:': 0.3771678202810542, 'Returns:': 6.00213807243417, 'Final Value': 178955.24500496502}
-Netural: PSX : {'DrawDown': 35.24478297099085, 'Sharpe Ratio:': 0.6709866653090262, 'Returns:': 12.663904749565253, 'Final Value': 250770.9589733423}
-Positive: PNW : {'DrawDown': 20.769611840717378, 'Sharpe Ratio:': 1.1737210787644612, 'Returns:': 11.400232005642755, 'Final Value': 293843.933776079}
-Netural: PXD : {'DrawDown': 53.45404489756735, 'Sharpe Ratio:': 0.39152841006610034, 'Returns:': 8.828685011031027, 'Final Value': 232729.04504551215}
-Negative: PBI : {'DrawDown': 84.25155124981261, 'Sharpe Ratio:': -0.11669109359888803, 'Returns:': -11.199697578989607, 'Final Value': 30546.62733565435}
-Netural: PCL : {'DrawDown': 0.9835578981453165, 'Sharpe Ratio:': 0.2520947989488819, 'Returns:': 6.192000230954018, 'Final Value': 110084.5}
-Netural: PNC : {'DrawDown': 35.990813526473666, 'Sharpe Ratio:': 0.871253122749087, 'Returns:': 13.850883545263985, 'Final Value': 365148.7553329129}
-Netural: RL : {'DrawDown': 62.02507549922906, 'Sharpe Ratio:': 0.30161654906796564, 'Returns:': 4.773706242044684, 'Final Value': 159294.80148044202}
-Netural: PPG : {'DrawDown': 28.54787973900584, 'Sharpe Ratio:': 0.7083819932929333, 'Returns:': 13.728614038762599, 'Final Value': 361252.3199732509}
-Netural: PPL : {'DrawDown': 33.578453466265834, 'Sharpe Ratio:': 0.4041175140445541, 'Returns:': 5.744753764789788, 'Final Value': 174663.93564668196}
+Negative: POM : {'DrawDown': 85.45060198175842, 'Sharpe Ratio:': -0.20724046785308178, 'Returns:': -16.055319885196877, 'Final Value': 18367.96041015625}
+Positive: PEP : {'DrawDown': 19.980473082503636, 'Sharpe Ratio:': 1.1604891681047775, 'Returns:': 9.386402583131355, 'Final Value': 244914.74502713856}
+Netural: PKI : {'DrawDown': 37.46632600713162, 'Sharpe Ratio:': 0.6953499608647716, 'Returns:': 12.337669831639566, 'Final Value': 319486.2133545579}
+Netural: PRGO : {'DrawDown': 80.41793515575219, 'Sharpe Ratio:': 0.2313048720302072, 'Returns:': 2.316358667819058, 'Final Value': 125687.73450843059}
+Netural: PFE : {'DrawDown': 27.593165647589096, 'Sharpe Ratio:': 0.88096520686142, 'Returns:': 10.509755352151986, 'Final Value': 271217.2299093465}
+Negative: PCG : {'DrawDown': 93.88088706620997, 'Sharpe Ratio:': -0.2725370496320778, 'Returns:': -10.6668066823983, 'Final Value': 32426.954328704087}
+Netural: PM : {'DrawDown': 41.38878881392374, 'Sharpe Ratio:': 0.4293573452580807, 'Returns:': 7.00201138293642, 'Final Value': 196540.87078418772}
+Netural: PSX : {'DrawDown': 35.24165359971695, 'Sharpe Ratio:': 0.6715155387016035, 'Returns:': 14.387528541984867, 'Final Value': 281914.9650986194}
+Netural: PNW : {'DrawDown': 20.066500066301614, 'Sharpe Ratio:': 0.934688108642011, 'Returns:': 9.627992234452323, 'Final Value': 250369.2161300929}
+Netural: PXD : {'DrawDown': 53.20062546471419, 'Sharpe Ratio:': 0.29801134341994706, 'Returns:': 5.3739375683049655, 'Final Value': 168644.13581467592}
+Negative: PBI : {'DrawDown': 84.60302224718947, 'Sharpe Ratio:': -0.10925492587563108, 'Returns:': -11.198274130859602, 'Final Value': 30551.516468482212}
+Netural: PCL : {'DrawDown': 97.88685854131357, 'Sharpe Ratio:': 0.4935940671664205, 'Returns:': 69.98534343670386, 'Final Value': 233601.4299999997}
+Netural: PNC : {'DrawDown': 35.11572153715062, 'Sharpe Ratio:': 0.780378578207054, 'Returns:': 12.913781670555574, 'Final Value': 336226.7600740192}
+Netural: RL : {'DrawDown': 62.52251881686979, 'Sharpe Ratio:': 0.23322219558004895, 'Returns:': 3.520635317095132, 'Final Value': 141263.76069339112}
+Netural: PPG : {'DrawDown': 28.198449384241034, 'Sharpe Ratio:': 0.7814953386830874, 'Returns:': 15.573329314409293, 'Final Value': 424207.65519731824}
+Netural: PPL : {'DrawDown': 33.54525392641656, 'Sharpe Ratio:': 0.4868571959488388, 'Returns:': 6.907743090679378, 'Final Value': 194818.92852453326}
 Error: PX : Blame Jimmy for not fixing these errors
 Error: PCP : Blame Jimmy for not fixing these errors
 Error: PCLN : Blame Jimmy for not fixing these errors
-Netural: PFG : {'DrawDown': 42.68759998840508, 'Sharpe Ratio:': 0.37808812212049636, 'Returns:': 7.475828676435133, 'Final Value': 205405.00744237239}
-Netural: PG : {'DrawDown': 25.206283484574588, 'Sharpe Ratio:': 0.6572531622369763, 'Returns:': 8.585383355941085, 'Final Value': 227586.1818973358}
-Positive: PGR : {'DrawDown': 22.02687863413778, 'Sharpe Ratio:': 1.293171152911554, 'Returns:': 13.93830914128844, 'Final Value': 367957.9424323607}
-Netural: PLD : {'DrawDown': 38.180806585975084, 'Sharpe Ratio:': 0.8171849150589107, 'Returns:': 14.316049102671307, 'Final Value': 380320.4922782959}
-Netural: PRU : {'DrawDown': 35.49919244412726, 'Sharpe Ratio:': 0.3421879892861885, 'Returns:': 6.674067257049794, 'Final Value': 190608.89459739206}
-Netural: PEG : {'DrawDown': 16.163262863789832, 'Sharpe Ratio:': 0.6244893523584651, 'Returns:': 6.717683083272244, 'Final Value': 191388.43081846385}
-Netural: PSA : {'DrawDown': 30.19018205672227, 'Sharpe Ratio:': 0.8494104694418944, 'Returns:': 11.290787847152304, 'Final Value': 290974.3594596763}
-Netural: PHM : {'DrawDown': 71.2776681028162, 'Sharpe Ratio:': 0.3572949084761243, 'Returns:': 10.737871116185927, 'Final Value': 276858.9628665901}
+Netural: PFG : {'DrawDown': 43.055712300903615, 'Sharpe Ratio:': 0.4230613207122854, 'Returns:': 8.540572060388845, 'Final Value': 226650.20061972307}
+Netural: PG : {'DrawDown': 25.19263731575066, 'Sharpe Ratio:': 0.7298838970424868, 'Returns:': 8.33589305889039, 'Final Value': 222418.9238643797}
+Positive: PGR : {'DrawDown': 21.967594511660167, 'Sharpe Ratio:': 1.6249306804335746, 'Returns:': 13.218906014964196, 'Final Value': 345409.02855380037}
+Netural: PLD : {'DrawDown': 38.041679392277885, 'Sharpe Ratio:': 0.7159163815038996, 'Returns:': 12.375413292148947, 'Final Value': 320559.5453473137}
+Netural: PRU : {'DrawDown': 40.21316986985747, 'Sharpe Ratio:': 0.23313841138692046, 'Returns:': 3.611819483135823, 'Final Value': 142511.0074500329}
+Netural: PEG : {'DrawDown': 16.117804860847002, 'Sharpe Ratio:': 0.6422097618400151, 'Returns:': 7.802459298156123, 'Final Value': 211723.35627783573}
+Netural: PSA : {'DrawDown': 29.539767109663536, 'Sharpe Ratio:': 0.7649798724544922, 'Returns:': 11.34911823807134, 'Final Value': 292500.6008089243}
+Netural: PHM : {'DrawDown': 72.92628580576734, 'Sharpe Ratio:': 0.3067347450000351, 'Returns:': 7.654082562656706, 'Final Value': 208831.79497150338}
 Error: QEP : Blame Jimmy for not fixing these errors
-Netural: PWR : {'DrawDown': 53.23513383948654, 'Sharpe Ratio:': 0.3045996278424437, 'Returns:': 6.135726486305128, 'Final Value': 181219.72537706463}
-Netural: QCOM : {'DrawDown': 44.42720214846846, 'Sharpe Ratio:': 0.4053827547636223, 'Returns:': 7.444726888347699, 'Final Value': 204812.31253831487}
-Netural: DGX : {'DrawDown': 30.213405551397017, 'Sharpe Ratio:': 0.3615779365327823, 'Returns:': 5.340359272019257, 'Final Value': 168108.3574076311}
-Negative: RRC : {'DrawDown': 95.84038089175597, 'Sharpe Ratio:': -0.3958887551171281, 'Returns:': -20.357706638868407, 'Final Value': 10304.02065301377}
+Netural: PWR : {'DrawDown': 53.04982563955462, 'Sharpe Ratio:': 0.33957644314235597, 'Returns:': 7.108166308258249, 'Final Value': 198496.323910857}
+Netural: QCOM : {'DrawDown': 44.34449293930077, 'Sharpe Ratio:': 0.4094026852906704, 'Returns:': 7.9828909853630305, 'Final Value': 215288.1180045282}
+Netural: DGX : {'DrawDown': 28.77364125157861, 'Sharpe Ratio:': 0.43225870611657446, 'Returns:': 6.221176783258874, 'Final Value': 182681.69627588845}
+Negative: RRC : {'DrawDown': 95.56108116083509, 'Sharpe Ratio:': -0.23825694708859538, 'Returns:': -17.49123506335857, 'Final Value': 14666.492284162454}
 Error: RTN : Blame Jimmy for not fixing these errors
 Error: RHT : Blame Jimmy for not fixing these errors
-Netural: RF : {'DrawDown': 64.56728524025138, 'Sharpe Ratio:': 0.4857958454365413, 'Returns:': 10.890558605548422, 'Final Value': 280693.9809258402}
-Positive: RSG : {'DrawDown': 22.800196088849194, 'Sharpe Ratio:': 1.371937943574049, 'Returns:': 13.189620837670393, 'Final Value': 344518.04820560536}
+Netural: RF : {'DrawDown': 63.00892200719, 'Sharpe Ratio:': 0.4671153129979737, 'Returns:': 10.38183994859654, 'Final Value': 268099.1119613501}
+Positive: RSG : {'DrawDown': 24.209127165248454, 'Sharpe Ratio:': 1.539533485728408, 'Returns:': 13.923294556500606, 'Final Value': 367474.11023578147}
 Error: RAI : Blame Jimmy for not fixing these errors
-Netural: RHI : {'DrawDown': 43.747331741762245, 'Sharpe Ratio:': 0.566902991526158, 'Returns:': 8.146893769977144, 'Final Value': 218575.05408437026}
-Netural: ROK : {'DrawDown': 46.224768933881144, 'Sharpe Ratio:': 0.6737909280206639, 'Returns:': 12.89368255345899, 'Final Value': 335629.69019768666}
-Negative: COL : {'DrawDown': 97.63947164319667, 'Sharpe Ratio:': -0.42453301814616945, 'Returns:': -32.75755015425476, 'Final Value': 5593.449982757418}
-Positive: ROP : {'DrawDown': 25.065853698355966, 'Sharpe Ratio:': 1.4566512150703324, 'Returns:': 17.217253925228576, 'Final Value': 488450.23699200514}
-Positive: ROST : {'DrawDown': 25.726689267807803, 'Sharpe Ratio:': 1.403156768901135, 'Returns:': 21.48576096597411, 'Final Value': 698091.1159012758}
+Netural: RHI : {'DrawDown': 43.57815806313649, 'Sharpe Ratio:': 0.5739458984589453, 'Returns:': 8.200031949522495, 'Final Value': 219649.69179279124}
+Netural: ROK : {'DrawDown': 46.49153715185985, 'Sharpe Ratio:': 0.6157023459269279, 'Returns:': 11.790582143221899, 'Final Value': 304287.309666565}
+Negative: COL : {'DrawDown': 97.77221723980264, 'Sharpe Ratio:': -0.5410653247078845, 'Returns:': -35.62792472849319, 'Final Value': 4073.994170606992}
+Positive: ROP : {'DrawDown': 24.181200112873345, 'Sharpe Ratio:': 1.6188027852578217, 'Returns:': 16.926148284294186, 'Final Value': 476473.19522392144}
+Positive: ROST : {'DrawDown': 25.792334940760316, 'Sharpe Ratio:': 1.2199213085058018, 'Returns:': 18.93198950412293, 'Final Value': 564665.977695355}
 Error: RDC : Blame Jimmy for not fixing these errors
-Netural: R : {'DrawDown': 51.05672745331445, 'Sharpe Ratio:': 0.24426631947365493, 'Returns:': 3.5702139654586795, 'Final Value': 141940.68970048445}
+Netural: R : {'DrawDown': 49.9166412685101, 'Sharpe Ratio:': 0.3020375728106225, 'Returns:': 5.305874336908949, 'Final Value': 167559.70732032234}
 Error: SWY : Blame Jimmy for not fixing these errors
 Error: SAI : Blame Jimmy for not fixing these errors
-Netural: CRM : {'DrawDown': 35.59879526539518, 'Sharpe Ratio:': 0.9735964255791406, 'Returns:': 21.966881818250748, 'Final Value': 726190.0420667647}
+Netural: CRM : {'DrawDown': 35.597703449150856, 'Sharpe Ratio:': 0.9419262866402013, 'Returns:': 23.14717760196511, 'Final Value': 799483.1564381026}
 Error: SNDK : Blame Jimmy for not fixing these errors
-Negative: SCG : {'DrawDown': 51.6521034302423, 'Sharpe Ratio:': 0.10924962528875365, 'Returns:': -0.7675087042663455, 'Final Value': 97369.15779135484}
-Negative: SLB : {'DrawDown': 69.10992779918573, 'Sharpe Ratio:': -0.08931132449750767, 'Returns:': -3.8633110729954407, 'Final Value': 67478.15576513925}
-Netural: SNI : {'DrawDown': 42.80594688827215, 'Sharpe Ratio:': 0.4155125100497049, 'Returns:': 8.953359044242218, 'Final Value': 201433.53010771543}
-Netural: STX : {'DrawDown': 69.49830652936775, 'Sharpe Ratio:': 0.5490837882519026, 'Returns:': 15.134486284058637, 'Final Value': 408397.2044795221}
-Netural: SEE : {'DrawDown': 51.5207409489538, 'Sharpe Ratio:': 0.29203678950190054, 'Returns:': 6.562461179361387, 'Final Value': 188627.1756476854}
+Netural: SCG : {'DrawDown': 51.37738064833709, 'Sharpe Ratio:': 0.13975664538407026, 'Returns:': 0.12077344260001503, 'Final Value': 100418.53571485405}
+Negative: SLB : {'DrawDown': 67.51976654981219, 'Sharpe Ratio:': -0.054152500248797496, 'Returns:': -3.202279592936076, 'Final Value': 72256.29028463522}
+Netural: SNI : {'DrawDown': 42.68166291398791, 'Sharpe Ratio:': 0.4333953587940761, 'Returns:': 9.502977501467033, 'Final Value': 209883.55620096397}
+Netural: STX : {'DrawDown': 69.71954518442347, 'Sharpe Ratio:': 0.4590719063786361, 'Returns:': 11.001331139812907, 'Final Value': 283506.0781116728}
+Netural: SEE : {'DrawDown': 51.52180773835801, 'Sharpe Ratio:': 0.297186886312968, 'Returns:': 6.686514141607157, 'Final Value': 190831.0632128346}
 Error: SHLD : Blame Jimmy for not fixing these errors
-Netural: SRE : {'DrawDown': 22.49713115790728, 'Sharpe Ratio:': 0.7850233217669297, 'Returns:': 11.203586331989372, 'Final Value': 288706.0540687731}
-Positive: SHW : {'DrawDown': 24.695544229897983, 'Sharpe Ratio:': 1.023683011654041, 'Returns:': 18.41091611623443, 'Final Value': 540446.1947026739}
+Netural: SRE : {'DrawDown': 22.51399081276317, 'Sharpe Ratio:': 0.746976996995646, 'Returns:': 11.580654716689697, 'Final Value': 298630.1650287965}
+Netural: SHW : {'DrawDown': 24.7555512957206, 'Sharpe Ratio:': 0.9361326558258766, 'Returns:': 16.205372053195287, 'Final Value': 447947.0887337126}
 Error: SIAL : Blame Jimmy for not fixing these errors
-Netural: SPG : {'DrawDown': 30.338400891007222, 'Sharpe Ratio:': 0.5648754533894311, 'Returns:': 8.810430280202276, 'Final Value': 232339.58265846362}
-Netural: SLM : {'DrawDown': 49.479677068079106, 'Sharpe Ratio:': 0.39923827393651345, 'Returns:': 9.211999131767515, 'Final Value': 241043.87679787417}
-Netural: SJM : {'DrawDown': 36.41799762272788, 'Sharpe Ratio:': 0.32954702697298993, 'Returns:': 4.185693412731101, 'Final Value': 150590.71571094892}
-Netural: SNA : {'DrawDown': 32.67235766492714, 'Sharpe Ratio:': 0.6918365398489835, 'Returns:': 13.808181321828378, 'Final Value': 363783.6618319418}
-Netural: SO : {'DrawDown': 19.13911860329377, 'Sharpe Ratio:': 0.6291304323865821, 'Returns:': 9.949216474190562, 'Final Value': 257790.87742124955}
-Netural: LUV : {'DrawDown': 47.65317792106532, 'Sharpe Ratio:': 0.49095789420457225, 'Returns:': 11.153992890090569, 'Final Value': 287423.1281706716}
-Negative: SWN : {'DrawDown': 94.26757940804958, 'Sharpe Ratio:': -0.5863127057627707, 'Returns:': -22.99400471942727, 'Final Value': 7362.860656738281}
-Netural: SE : {'DrawDown': 35.68586840246201, 'Sharpe Ratio:': 0.504091329332543, 'Returns:': 32.42770444869845, 'Final Value': 185008.53689481734}
+Netural: SPG : {'DrawDown': 29.461493816689718, 'Sharpe Ratio:': 0.6516789020381689, 'Returns:': 9.953064522273328, 'Final Value': 257880.97108961886}
+Netural: SLM : {'DrawDown': 48.94429190883609, 'Sharpe Ratio:': 0.32638270529516633, 'Returns:': 6.801352781885803, 'Final Value': 192891.87613370924}
+Netural: SJM : {'DrawDown': 36.24210470252772, 'Sharpe Ratio:': 0.3519095293299938, 'Returns:': 4.399629577221906, 'Final Value': 153706.68935948808}
+Netural: SNA : {'DrawDown': 32.17152245641289, 'Sharpe Ratio:': 0.7642374105046916, 'Returns:': 13.488281810148248, 'Final Value': 353702.3708501747}
+Netural: SO : {'DrawDown': 17.51768564420605, 'Sharpe Ratio:': 0.5699034265243286, 'Returns:': 8.270934445362755, 'Final Value': 221090.98907837766}
+Netural: LUV : {'DrawDown': 48.35317997846802, 'Sharpe Ratio:': 0.5029102506539298, 'Returns:': 12.235587389000964, 'Final Value': 316599.4196738766}
+Negative: SWN : {'DrawDown': 94.78343470731919, 'Sharpe Ratio:': -0.5231952756091217, 'Returns:': -21.973140230867774, 'Final Value': 8397.53261550904}
+Netural: SE : {'DrawDown': 35.68586840246201, 'Sharpe Ratio:': 0.4488442784901729, 'Returns:': 23.231668054306336, 'Final Value': 158024.74473054885}
 Error: S : Blame Jimmy for not fixing these errors
 Error: STJ : Blame Jimmy for not fixing these errors
-Netural: SWK : {'DrawDown': 37.198024693157926, 'Sharpe Ratio:': 0.6685635530912272, 'Returns:': 12.029799291086245, 'Final Value': 310851.17026779323}
+Netural: SWK : {'DrawDown': 37.169457644374084, 'Sharpe Ratio:': 0.7064700955737033, 'Returns:': 12.479383367188447, 'Final Value': 323533.00134634244}
 Error: SPLS : Blame Jimmy for not fixing these errors
-Positive: SBUX : {'DrawDown': 29.794885021366813, 'Sharpe Ratio:': 1.1438783641129509, 'Returns:': 19.374717238875, 'Final Value': 586006.8974645758}
-Netural: HOT : {'DrawDown': 31.182599202278755, 'Sharpe Ratio:': 0.028734024415611303, 'Returns:': 1.3163692148268302, 'Final Value': 102639.41299641393}
-Netural: STT : {'DrawDown': 54.71453653349111, 'Sharpe Ratio:': 0.3586480152514381, 'Returns:': 6.448211612443975, 'Final Value': 186617.74046586265}
-Negative: SRCL : {'DrawDown': 76.08233235442225, 'Sharpe Ratio:': 0.09069077980292645, 'Returns:': -1.0649014043826046, 'Final Value': 89862.33774032592}
-Netural: SYK : {'DrawDown': 31.898360401842094, 'Sharpe Ratio:': 1.0030933023619804, 'Returns:': 13.851935267494447, 'Final Value': 365182.4345968041}
-Netural: SUN : {'DrawDown': 54.92276636980253, 'Sharpe Ratio:': 0.4385172110156527, 'Returns:': 9.119730730042237, 'Final Value': 188538.67915962773}
+Netural: SBUX : {'DrawDown': 26.094510444020052, 'Sharpe Ratio:': 0.9337421108740063, 'Returns:': 15.74080698813803, 'Final Value': 430385.21011981234}
+Netural: HOT : {'DrawDown': 31.490227598846737, 'Sharpe Ratio:': -0.030649462924234705, 'Returns:': 0.3771237383325574, 'Final Value': 100752.6597538192}
+Netural: STT : {'DrawDown': 52.244576776371815, 'Sharpe Ratio:': 0.3568444768521081, 'Returns:': 5.81724235607738, 'Final Value': 175863.0535448146}
+Negative: SRCL : {'DrawDown': 76.05567621633371, 'Sharpe Ratio:': 0.09081488923002923, 'Returns:': -1.056779609564989, 'Final Value': 89936.0177354431}
+Netural: SYK : {'DrawDown': 30.265944046436935, 'Sharpe Ratio:': 0.9561540872980788, 'Returns:': 13.392379613773295, 'Final Value': 350729.48928767664}
+Netural: SUN : {'DrawDown': 53.39746115735931, 'Sharpe Ratio:': 0.4547460891507496, 'Returns:': 9.313967520071452, 'Final Value': 190990.7850794321}
 Error: STI : Blame Jimmy for not fixing these errors
 Error: SYMC : Blame Jimmy for not fixing these errors
-Positive: SYY : {'DrawDown': 20.71057503801601, 'Sharpe Ratio:': 1.0180535725950857, 'Returns:': 10.993894846055689, 'Final Value': 283316.5078849516}
-Netural: TROW : {'DrawDown': 32.07911408767262, 'Sharpe Ratio:': 0.6134695362697786, 'Returns:': 9.642609363376856, 'Final Value': 250702.71301019564}
-Netural: TGT : {'DrawDown': 37.175848363120224, 'Sharpe Ratio:': 0.46981850490468424, 'Returns:': 11.343565205515569, 'Final Value': 292354.9935565917}
-Netural: TEL : {'DrawDown': 31.937906677271833, 'Sharpe Ratio:': 0.6814411118968451, 'Returns:': 12.934007613877233, 'Final Value': 336828.5621565993}
+Positive: SYY : {'DrawDown': 20.34523038276078, 'Sharpe Ratio:': 1.0304366645169212, 'Returns:': 10.923662202866812, 'Final Value': 281531.71517904615}
+Netural: TROW : {'DrawDown': 32.164211121617384, 'Sharpe Ratio:': 0.5158810130936049, 'Returns:': 8.304575187606373, 'Final Value': 221777.80611031855}
+Netural: TGT : {'DrawDown': 37.168430424294435, 'Sharpe Ratio:': 0.38613660151319595, 'Returns:': 8.823734353471684, 'Final Value': 232623.3653765285}
+Netural: TEL : {'DrawDown': 31.316186254477106, 'Sharpe Ratio:': 0.8278308109996941, 'Returns:': 13.041217724141973, 'Final Value': 340034.70406046725}
 Error: TE : Blame Jimmy for not fixing these errors
-Netural: THC : {'DrawDown': 78.9478969479199, 'Sharpe Ratio:': 0.26696658117259503, 'Returns:': 4.345175041188742, 'Final Value': 152908.10533655167}
-Negative: TDC : {'DrawDown': 69.88969601530135, 'Sharpe Ratio:': -0.028919257602499877, 'Returns:': -2.851084650971318, 'Final Value': 74916.7552000809}
-Netural: TER : {'DrawDown': 44.6648291899999, 'Sharpe Ratio:': 0.5607864012207538, 'Returns:': 15.99961206608641, 'Final Value': 440090.75830753957}
+Netural: THC : {'DrawDown': 78.00152856848273, 'Sharpe Ratio:': 0.23072230691032317, 'Returns:': 3.058988933295989, 'Final Value': 135098.66652275086}
+Negative: TDC : {'DrawDown': 69.9033667430623, 'Sharpe Ratio:': 0.07988562064017053, 'Returns:': -0.5819029267591943, 'Final Value': 94339.74392406456}
+Netural: TER : {'DrawDown': 42.748247979755675, 'Sharpe Ratio:': 0.5157490428995772, 'Returns:': 18.675964396001692, 'Final Value': 552646.3864531902}
 Error: TSO : Blame Jimmy for not fixing these errors
-Netural: TXN : {'DrawDown': 31.412543219041233, 'Sharpe Ratio:': 0.96786497772078, 'Returns:': 17.472138966724547, 'Final Value': 499158.7499510367}
-Netural: TXT : {'DrawDown': 47.29399424572061, 'Sharpe Ratio:': 0.42516449630700803, 'Returns:': 7.709461521177076, 'Final Value': 209906.83534349178}
-Netural: HSY : {'DrawDown': 22.93830587246714, 'Sharpe Ratio:': 0.9761999204197174, 'Returns:': 13.794725979670904, 'Final Value': 363354.47744829045}
-Positive: TRV : {'DrawDown': 25.51479712502552, 'Sharpe Ratio:': 1.0376875407972461, 'Returns:': 10.010364002026714, 'Final Value': 259225.86989664368}
-Netural: TMO : {'DrawDown': 33.498863995605724, 'Sharpe Ratio:': 0.7649793945044733, 'Returns:': 16.886515685486952, 'Final Value': 474863.1861933984}
+Netural: TXN : {'DrawDown': 31.56916945646209, 'Sharpe Ratio:': 0.9073968683084485, 'Returns:': 16.352814439057102, 'Final Value': 453654.1108078001}
+Netural: TXT : {'DrawDown': 46.43691812053822, 'Sharpe Ratio:': 0.3986331842446929, 'Returns:': 7.3726781190947985, 'Final Value': 203445.21409228054}
+Netural: HSY : {'DrawDown': 23.103341133815366, 'Sharpe Ratio:': 0.8941677622761884, 'Returns:': 10.76908778917777, 'Final Value': 277639.16860391246}
+Positive: TRV : {'DrawDown': 25.78388743712189, 'Sharpe Ratio:': 1.249046907942343, 'Returns:': 10.637792374291836, 'Final Value': 274370.95403468946}
+Netural: TMO : {'DrawDown': 33.26387122518453, 'Sharpe Ratio:': 0.8665962346696334, 'Returns:': 17.487678948119108, 'Final Value': 499818.41350686725}
 Error: TIF : Blame Jimmy for not fixing these errors
-Netural: TWX : {'DrawDown': 33.10837652709909, 'Sharpe Ratio:': 0.6164114609900757, 'Returns:': 12.071468395389287, 'Final Value': 261674.79603338544}
+Netural: TWX : {'DrawDown': 31.77558858374192, 'Sharpe Ratio:': 0.6402328372924675, 'Returns:': 12.153610290930049, 'Final Value': 263298.0368307418}
 Error: TWC : Blame Jimmy for not fixing these errors
-Netural: TIE : {'DrawDown': 99.04594884227953, 'Sharpe Ratio:': 0.370009708201464, 'Returns:': 96.20839735202772, 'Final Value': 52111111.1281361}
-Positive: TJX : {'DrawDown': 25.954979540439474, 'Sharpe Ratio:': 1.0552067376886751, 'Returns:': 16.06678908117674, 'Final Value': 442641.9703917083}
+Netural: TIE : {'DrawDown': 99.9915354617605, 'Sharpe Ratio:': 0.33443708973196123, 'Returns:': 210.02038014129906, 'Final Value': 3638810602.8303585}
+Positive: TJX : {'DrawDown': 25.294721224214946, 'Sharpe Ratio:': 1.049315093707496, 'Returns:': 18.0687957584329, 'Final Value': 525056.8571676499}
 Error: TMK : Blame Jimmy for not fixing these errors
 Error: TSS : Blame Jimmy for not fixing these errors
-Negative: TRIP : {'DrawDown': 71.73563136747967, 'Sharpe Ratio:': 0.11587048526823897, 'Returns:': -1.4928521236400487, 'Final Value': 88594.13617092054}
-Netural: TSN : {'DrawDown': 38.311776148517254, 'Sharpe Ratio:': 0.6477906363987707, 'Returns:': 15.883780133918629, 'Final Value': 435722.8163435532}
+Netural: TRIP : {'DrawDown': 72.23836224439826, 'Sharpe Ratio:': 0.18191136141067507, 'Returns:': 0.6013921410139006, 'Final Value': 104946.0888204398}
+Netural: TSN : {'DrawDown': 37.23028297640305, 'Sharpe Ratio:': 0.6861334607050801, 'Returns:': 16.68180572919303, 'Final Value': 466624.86047020776}
 Error: TYC : Blame Jimmy for not fixing these errors
-Netural: USB : {'DrawDown': 27.929547418621688, 'Sharpe Ratio:': 0.7277427758034692, 'Returns:': 9.79770526482148, 'Final Value': 254266.00439997544}
-Netural: UNP : {'DrawDown': 42.624064238146495, 'Sharpe Ratio:': 0.9170517378950378, 'Returns:': 17.178576903244412, 'Final Value': 486843.48709310807}
-Positive: UNH : {'DrawDown': 21.3626423125597, 'Sharpe Ratio:': 2.248102058287648, 'Returns:': 24.351728724862028, 'Final Value': 881081.05205483}
-Netural: UPS : {'DrawDown': 30.79115194593719, 'Sharpe Ratio:': 0.4878574780830355, 'Returns:': 7.607331919632672, 'Final Value': 207928.1106404092}
-Negative: X : {'DrawDown': 88.48601211549187, 'Sharpe Ratio:': 0.10503079272547362, 'Returns:': -13.393902692140298, 'Final Value': 23794.466966630673}
+Netural: USB : {'DrawDown': 28.25928280676607, 'Sharpe Ratio:': 0.8337579882960904, 'Returns:': 10.309370246462581, 'Final Value': 266346.9112774724}
+Netural: UNP : {'DrawDown': 42.62187316877661, 'Sharpe Ratio:': 0.9317496275744536, 'Returns:': 16.73653840387452, 'Final Value': 468814.82352595875}
+Positive: UNH : {'DrawDown': 23.84478495227445, 'Sharpe Ratio:': 2.985291979836233, 'Returns:': 20.50809321988904, 'Final Value': 643985.6287088415}
+Netural: UPS : {'DrawDown': 28.64791247268024, 'Sharpe Ratio:': 0.49776057715515093, 'Returns:': 7.377608352317769, 'Final Value': 203538.50102902675}
+Negative: X : {'DrawDown': 87.56991799213073, 'Sharpe Ratio:': 0.09368048947860408, 'Returns:': -13.395561008658, 'Final Value': 23789.918472071455}
 Error: UTX : Blame Jimmy for not fixing these errors
-Netural: UNM : {'DrawDown': 54.76245050386125, 'Sharpe Ratio:': 0.1943017215735849, 'Returns:': 2.608949357898857, 'Final Value': 129322.73005886415}
-Negative: URBN : {'DrawDown': 63.68186744638859, 'Sharpe Ratio:': -0.03283926004142432, 'Returns:': -2.1274640716106257, 'Final Value': 80678.28416397094}
-Netural: VFC : {'DrawDown': 34.964987217362165, 'Sharpe Ratio:': 0.6956150416835818, 'Returns:': 16.907599345258543, 'Final Value': 475719.0646700913}
-Netural: VLO : {'DrawDown': 43.5147699936829, 'Sharpe Ratio:': 0.5261213371543565, 'Returns:': 11.546024701680087, 'Final Value': 297706.10081665986}
+Netural: UNM : {'DrawDown': 54.76789792327081, 'Sharpe Ratio:': 0.16719752147862582, 'Returns:': 1.9231535439101899, 'Final Value': 120947.58730357177}
+Negative: URBN : {'DrawDown': 62.86380251044431, 'Sharpe Ratio:': -0.023532787406286042, 'Returns:': -1.8339285378883197, 'Final Value': 83126.9236410904}
+Netural: VFC : {'DrawDown': 34.85119384156498, 'Sharpe Ratio:': 0.8142723211034816, 'Returns:': 19.18415879670126, 'Final Value': 576733.9770080514}
+Netural: VLO : {'DrawDown': 45.45445561596652, 'Sharpe Ratio:': 0.4321485021500943, 'Returns:': 10.129645081810677, 'Final Value': 262045.82782699566}
 Error: VAR : Blame Jimmy for not fixing these errors
-Netural: VTR : {'DrawDown': 44.5394168122001, 'Sharpe Ratio:': 0.32972038225205597, 'Returns:': 5.168366619710342, 'Final Value': 165387.96595721686}
-Netural: VRSN : {'DrawDown': 30.68942837080602, 'Sharpe Ratio:': 0.8710899165286903, 'Returns:': 16.90250903550457, 'Final Value': 475512.29959749617}
-Positive: VZ : {'DrawDown': 20.636516490343226, 'Sharpe Ratio:': 1.454515202167604, 'Returns:': 9.128565647440478, 'Final Value': 239211.62015068412}
+Netural: VTR : {'DrawDown': 44.199487200958444, 'Sharpe Ratio:': 0.30838158327129145, 'Returns:': 4.618982533835279, 'Final Value': 156961.6814365114}
+Netural: VRSN : {'DrawDown': 30.725959872801685, 'Sharpe Ratio:': 1.0060042118151873, 'Returns:': 18.02527029147028, 'Final Value': 523127.530955195}
+Positive: VZ : {'DrawDown': 19.985989393309723, 'Sharpe Ratio:': 1.4145954443309274, 'Returns:': 9.594612044164514, 'Final Value': 249609.12715485084}
 Error: VIAB : Blame Jimmy for not fixing these errors
-Netural: V : {'DrawDown': 30.9147996199406, 'Sharpe Ratio:': 1.0377544223287294, 'Returns:': 19.588956876865723, 'Final Value': 596592.2201828589}
-Netural: VNO : {'DrawDown': 28.46187167829048, 'Sharpe Ratio:': 0.3876278407020387, 'Returns:': 5.3760052386857025, 'Final Value': 168677.177920577}
-Netural: VMC : {'DrawDown': 50.17345296983922, 'Sharpe Ratio:': 0.5016003150408724, 'Returns:': 9.323084334278088, 'Final Value': 243502.9826918586}
-Netural: WMT : {'DrawDown': 36.10150780635075, 'Sharpe Ratio:': 0.5459046098229086, 'Returns:': 9.116326049238477, 'Final Value': 238943.8869148159}
+Netural: V : {'DrawDown': 31.41834147157937, 'Sharpe Ratio:': 0.9728374409293477, 'Returns:': 19.638793845395274, 'Final Value': 599079.137590259}
+Netural: VNO : {'DrawDown': 28.458009962958673, 'Sharpe Ratio:': 0.3099819791308623, 'Returns:': 4.157236677678987, 'Final Value': 150180.5564848928}
+Netural: VMC : {'DrawDown': 53.390050667358395, 'Sharpe Ratio:': 0.4771203947093508, 'Returns:': 9.029540798955393, 'Final Value': 237053.237106286}
+Netural: WMT : {'DrawDown': 36.22437537287996, 'Sharpe Ratio:': 0.5151748341572058, 'Returns:': 7.233106524520692, 'Final Value': 200820.23231783617}
 Error: WAG : Blame Jimmy for not fixing these errors
-Netural: DIS : {'DrawDown': 34.487033848145465, 'Sharpe Ratio:': 1.0331890033748148, 'Returns:': 12.934864320889124, 'Final Value': 336854.0739734337}
+Netural: DIS : {'DrawDown': 33.58120706110523, 'Sharpe Ratio:': 1.068332398010918, 'Returns:': 14.505304523514532, 'Final Value': 386653.8340910378}
 Error: WPO : Blame Jimmy for not fixing these errors
-Positive: WM : {'DrawDown': 27.755251964873146, 'Sharpe Ratio:': 1.035388585408435, 'Returns:': 12.099440864378687, 'Final Value': 312785.857049765}
-Netural: WAT : {'DrawDown': 27.704990051749487, 'Sharpe Ratio:': 0.7496656488047897, 'Returns:': 10.558848626106553, 'Final Value': 272422.58657928463}
-Netural: WPI : {'DrawDown': 71.57321505347957, 'Sharpe Ratio:': 0.4420084658188871, 'Returns:': 22.47547363984858, 'Final Value': 670939.6784604948}
+Netural: WM : {'DrawDown': 27.76124947637356, 'Sharpe Ratio:': 0.9959928099265094, 'Returns:': 11.176803045176493, 'Final Value': 288012.5624046563}
+Netural: WAT : {'DrawDown': 27.586864924939256, 'Sharpe Ratio:': 0.715308896418615, 'Returns:': 9.685285313441087, 'Final Value': 251678.67392204283}
+Netural: WPI : {'DrawDown': 71.30415197122262, 'Sharpe Ratio:': 0.41816404492608844, 'Returns:': 13.069933865901367, 'Final Value': 316862.1412152267}
 Error: WLP : Blame Jimmy for not fixing these errors
-Netural: WFC : {'DrawDown': 31.812086021742726, 'Sharpe Ratio:': 0.4778642763366098, 'Returns:': 7.417829623636607, 'Final Value': 204300.98304419566}
-Netural: WDC : {'DrawDown': 67.59631132999431, 'Sharpe Ratio:': 0.2502389430455109, 'Returns:': 2.6504696979228144, 'Final Value': 129846.14988556194}
-Netural: WU : {'DrawDown': 43.29897156658835, 'Sharpe Ratio:': 0.2752698285082714, 'Returns:': 4.741200425954671, 'Final Value': 158802.0643519007}
-Netural: WY : {'DrawDown': 42.92781799601524, 'Sharpe Ratio:': 0.34100986440515935, 'Returns:': 6.290403942673805, 'Final Value': 183873.8776098457}
-Netural: WHR : {'DrawDown': 56.628251298817936, 'Sharpe Ratio:': 0.29390975283550647, 'Returns:': 5.993512153385735, 'Final Value': 178809.90454396466}
+Netural: WFC : {'DrawDown': 37.91488062491332, 'Sharpe Ratio:': 0.5474162449764216, 'Returns:': 8.717927321424376, 'Final Value': 230375.044429299}
+Netural: WDC : {'DrawDown': 66.18365666961279, 'Sharpe Ratio:': 0.2476917317011306, 'Returns:': 2.776235644745798, 'Final Value': 131443.2520571154}
+Netural: WU : {'DrawDown': 43.21981765793576, 'Sharpe Ratio:': 0.25525237658653305, 'Returns:': 4.29202329743613, 'Final Value': 152132.22952501103}
+Netural: WY : {'DrawDown': 42.28162038341941, 'Sharpe Ratio:': 0.2569825501479608, 'Returns:': 4.364117443277695, 'Final Value': 153185.4740445289}
+Netural: WHR : {'DrawDown': 57.30866334187005, 'Sharpe Ratio:': 0.31440190940898305, 'Returns:': 6.688218231224234, 'Final Value': 190861.49820766516}
 Error: WFM : Blame Jimmy for not fixing these errors
-Netural: WMB : {'DrawDown': 79.730836755658, 'Sharpe Ratio:': 0.3271449546165236, 'Returns:': 5.512314248495928, 'Final Value': 170868.3382906849}
+Netural: WMB : {'DrawDown': 78.66045674745234, 'Sharpe Ratio:': 0.08728423530126127, 'Returns:': 0.662358431505884, 'Final Value': 106813.34202346623}
 Error: WIN : Blame Jimmy for not fixing these errors
-Positive: WEC : {'DrawDown': 19.979269969108945, 'Sharpe Ratio:': 1.5186879930167227, 'Returns:': 13.729714917304447, 'Final Value': 361287.23475126224}
+Positive: WEC : {'DrawDown': 19.24849312964317, 'Sharpe Ratio:': 1.13438246712242, 'Returns:': 12.861990642181134, 'Final Value': 334690.1796371757}
 Error: WPX : Blame Jimmy for not fixing these errors
 Error: WYN : Blame Jimmy for not fixing these errors
-Netural: WYNN : {'DrawDown': 77.569778353812, 'Sharpe Ratio:': 0.32352368113802604, 'Returns:': 5.880712506825932, 'Final Value': 176919.06405828038}
-Positive: XEL : {'DrawDown': 17.014675895806878, 'Sharpe Ratio:': 1.205402267350246, 'Returns:': 12.649412369923722, 'Final Value': 328449.2025455922}
-Netural: XRX : {'DrawDown': 45.407557193902406, 'Sharpe Ratio:': 0.3126373015454897, 'Returns:': 7.001685302556443, 'Final Value': 196534.8909415749}
+Netural: WYNN : {'DrawDown': 75.67575460318022, 'Sharpe Ratio:': 0.3516221579815702, 'Returns:': 7.22169464513885, 'Final Value': 200606.95815762342}
+Positive: XEL : {'DrawDown': 16.836795959546293, 'Sharpe Ratio:': 1.3529769627463246, 'Returns:': 13.618775466535485, 'Final Value': 357783.97345663386}
+Netural: XRX : {'DrawDown': 47.61161381509859, 'Sharpe Ratio:': 0.2937285094595108, 'Returns:': 6.303308097898477, 'Final Value': 184096.87640137185}
 Error: XLNX : Blame Jimmy for not fixing these errors
 Error: XL : Blame Jimmy for not fixing these errors
-Netural: XYL : {'DrawDown': 24.8647530387876, 'Sharpe Ratio:': 0.9493887392078666, 'Returns:': 15.071462048113773, 'Final Value': 316285.8303768748}
+Positive: XYL : {'DrawDown': 24.598717795387795, 'Sharpe Ratio:': 1.0629707674060855, 'Returns:': 14.073660227860632, 'Final Value': 294480.2988664234}
 Error: YHOO : Blame Jimmy for not fixing these errors
-Positive: YUM : {'DrawDown': 29.89758593082501, 'Sharpe Ratio:': 1.2253183869887507, 'Returns:': 12.177740017656618, 'Final Value': 314973.99080751516}
+Netural: YUM : {'DrawDown': 28.038477191041082, 'Sharpe Ratio:': 0.8015817595181473, 'Returns:': 10.493535158103164, 'Final Value': 270820.0415836011}
 Error: ZMH : Blame Jimmy for not fixing these errors
-Netural: ZION : {'DrawDown': 52.592801969167375, 'Sharpe Ratio:': 0.5631794695856253, 'Returns:': 11.985069081378855, 'Final Value': 309614.22301653726}
+Netural: ZION : {'DrawDown': 54.79329408623597, 'Sharpe Ratio:': 0.5297264848019274, 'Returns:': 12.730205954656979, 'Final Value': 330808.73451511696}

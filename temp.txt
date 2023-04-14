@@ -13,3 +13,9 @@
     # print(tickers.Symbol.to_list())
 
     950.8994107246399
+
+ACN
+AET 
+AEE
+AEP 
+AMT
