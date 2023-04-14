@@ -29,7 +29,7 @@ def runStrategy(symbol, printEnable=False, plotMode=False, cash=100000, comissio
 
     if(printEnable):
         print('Starting Portfolio Value: %.2f' % cerebro.broker.getvalue())
-    cerebro.run()
+    # cerebro.run()
 
     AnalyzerSuite.AnalyzerSuite.defineAnalyzers(AnalyzerSuite, cerebro)
     thestrats = cerebro.run(stdstats=True)
@@ -57,7 +57,7 @@ def runMomentum(list, printEnable=False, plotMode=False, cash=100000, comission=
     for stock in list:
         print(str(count)+"/"+str(len(list)))
         data0 = bt.feeds.PandasData(dataname=yf.download(
-            stock, '2010-01-01', '2020-01-01', auto_adjust=True))
+            stock, '2010-01-01', '2012-01-01', auto_adjust=True))
         cerebro.adddata(data0)
         count += 1
 
@@ -69,7 +69,7 @@ def runMomentum(list, printEnable=False, plotMode=False, cash=100000, comission=
 
     if(printEnable):
         print('Starting Portfolio Value: %.2f' % cerebro.broker.getvalue())
-    cerebro.run()
+    # cerebro.run()
 
     AnalyzerSuite.AnalyzerSuite.defineAnalyzers(AnalyzerSuite, cerebro)
     thestrats = cerebro.run(stdstats=True)
