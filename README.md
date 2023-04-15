@@ -25,9 +25,10 @@ In the traderMain it has a runstrategy that can take in symbol, printEnable(to e
 
 Actually using the algo in real-life!
 
--In main function it runs the list of stocks against MR strategy
--Outputs buy signal into the daily txt file
--In the txt file it also contains the last 3 day's data 
+- In main function it runs the list of stocks against MR strategy
+- Outputs buy signal into the daily txt file
+- In the txt file it also contains the last 3 day's data 
 
 Decide: Check if the last buy price is close enough to the last market close price then BUY IT! with your own trader account
+
 Note: Do some research before actually buying cause sometimes terrible news can used to flag the buying signal
