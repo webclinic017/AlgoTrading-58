@@ -10,22 +10,23 @@ import strategy.MR as MR
 import strategy.momentum as momentum
 import matplotlib
 import strategy.AnalyzerSuite as AnalyzerSuite
+import os
+import sys
 
 
-def runStrategy(symbol, printEnable=False, plotMode=False, cash=100000, comission=0.01):
+def runStrategy(symbol, printEnable=False, plotMode=False, startDate='2010-01-01', endDate='2020-01-01', cash=100000, comission=0.01):
     cerebro = bt.Cerebro()
     cerebro.broker.setcash(cash)
     cerebro.broker.setcommission(comission)
 
     data = bt.feeds.PandasData(dataname=yf.download(
-        symbol, '2010-01-01', '2020-01-01', auto_adjust=True))
+        symbol, startDate, endDate, auto_adjust=True))
 
     cerebro.adddata(data)
     # cerebro.addstrategy(strategyAverage.strategyBob1)
     # cerebro.addstrategy(strategyPeriod.strategyBob2)
     # cerebro.addstrategy(core.strategyBob3)
     cerebro.addstrategy(MR.strategyMR)
-    # cerebro.addstrategy(momentum.strategyMomentum)
 
     if(printEnable):
         print('Starting Portfolio Value: %.2f' % cerebro.broker.getvalue())
@@ -57,19 +58,14 @@ def runMomentum(list, printEnable=False, plotMode=False, cash=100000, comission=
     for stock in list:
         print(str(count)+"/"+str(len(list)))
         data0 = bt.feeds.PandasData(dataname=yf.download(
-            stock, '2010-01-01', '2012-01-01', auto_adjust=True))
+            stock, '2010-01-01', '2020-01-01', auto_adjust=True))
         cerebro.adddata(data0)
         count += 1
 
-    # cerebro.addstrategy(strategyAverage.strategyBob1)
-    # cerebro.addstrategy(strategyPeriod.strategyBob2)
-    # cerebro.addstrategy(core.strategyBob3)
-    # cerebro.addstrategy(MR.strategyMR)
     cerebro.addstrategy(momentum.strategyMomentum)
 
     if(printEnable):
         print('Starting Portfolio Value: %.2f' % cerebro.broker.getvalue())
-    # cerebro.run()
 
     AnalyzerSuite.AnalyzerSuite.defineAnalyzers(AnalyzerSuite, cerebro)
     thestrats = cerebro.run(stdstats=True)
@@ -88,7 +84,7 @@ def runMomentum(list, printEnable=False, plotMode=False, cash=100000, comission=
     return(outputs)
 
 
-if __name__ == '__main__':
+def runTesting():
     start = time.time()
     list = ['ENB.TO', 'TD.TO', 'BN.TO', 'BNS.TO', 'SU.TO']
     #list = ['TD.TO']
@@ -152,7 +148,7 @@ if __name__ == '__main__':
         newList = ['ACN', 'AET', 'AEE', 'AEP', 'AMT', 'AMGN', 'AON', 'ADP', 'BDX', 'BA', 'CB', 'CINF', 'CTAS', 'CLX', 'CMS', 'KO', 'COST', 'DHR', 'DRI', 'ECL', 'FISV', 'HD', 'HON', 'HRL',
                    'INTU', 'JNJ', 'LLY', 'MMC', 'MA', 'MKC', 'MSFT', 'MSI', 'NDAQ', 'NEE', 'NKE', 'NI', 'PEP', 'PGR', 'RSG', 'ROP', 'ROST', 'SYY', 'TRV', 'TJX', 'UNH', 'VZ', 'WEC', 'XEL', 'XYL']
 
-    newList = ['ENB.TO', 'BN.TO', 'TD.TO', 'BNS.TO', 'SU.TO']
+    #newList = ['ENB.TO', 'BN.TO', 'TD.TO', 'BNS.TO', 'SU.TO']
     #newList = list
     #newList = ['UNH', 'VZ', 'AEE', 'XEL', 'MSFT']
     print(newList)
@@ -162,3 +158,25 @@ if __name__ == '__main__':
     print("*********************Finish run*********************")
     print("Finish running Part 2 in: "+str(end - start))
     print(result)
+
+
+if __name__ == '__main__':
+    # runTesting()
+    #list = ['RY.TO', 'BN.TO', 'TD.TO', 'BNS.TO']
+    list = ['GFL.TO', 'SU.TO', 'ENB.TO', 'RY.TO', 'BN.TO', 'TD.TO', 'BNS.TO']
+    #list = ['BN.TO']
+    print("starting...")
+    endDate = datetime.datetime.today().strftime('%Y-%m-%d')
+    # print(endDate)
+    startDate = datetime.datetime.today() - datetime.timedelta(days=6*30)
+    # print(startDate)
+    file = open("./results/results_"+str(endDate)+".txt", "a")
+    sys.stdout = file
+    for stock in list:
+        print("for ..... "+stock)
+        startDatetemp = datetime.datetime.today() - datetime.timedelta(days=3)
+        data = yf.download(stock, startDatetemp, endDate)
+        print(data)
+        result = runStrategy(
+            stock, False, False, startDate=startDate, endDate=endDate)
+        print("****************************************************************************************")

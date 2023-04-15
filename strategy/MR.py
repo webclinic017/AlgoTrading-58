@@ -56,6 +56,11 @@ class strategyMR(bt.Strategy):
             if(self.dataclose[0] < self.movingAverage(20) and self.dataclose[0] <= self.lowest(7)):
                 temp = int(self.broker.get_cash()*0.98/self.dataclose[0])
                 self.order = self.buy(size=temp)
+                print("buying at..."+str(self.dataclose[0]))
         else:
             if(self.dataclose[0] > self.position.price*1.1 and self.dataclose[0] >= self.highest(7) and self.dataclose[0] > self.movingAverage(200)):
                 self.order = self.sell(size=self.position.size)
+                #print("selling at..."+str(self.dataclose[0]))
+            elif(len(self) >= (self.bar_executed + 1)):
+                self.order = self.sell(size=self.position.size)
+                #print("force selling at..."+str(self.dataclose[0]))

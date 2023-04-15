@@ -16,7 +16,6 @@ class strategyMomentum(bt.Strategy):
         self.dataIndex = -1
         self.placed = False
         self.shares = 0
-        print(self.shares)
 
     def notify_order(self, order):
         if order.status in [order.Submitted, order.Accepted]:
@@ -34,17 +33,7 @@ class strategyMomentum(bt.Strategy):
                 )/self.datas[i].close[-period])*100
         return mom
 
-    def inPosition(self):
-        for i in range(len(self.datas)):
-            # print(not self.getposition(data=self.datas[i]))
-            if (not self.getposition(data=self.datas[i])):
-                continue
-            else:
-                return False
-        return True
-
-    def buyAll(self):
-        period = 3
+    def buyAll(self, period):
         highest = self.calMom(0, period)
         dataIn = 0
         for i in range(len(self.datas)):
@@ -56,20 +45,18 @@ class strategyMomentum(bt.Strategy):
                    * 0.98/self.datas[dataIn].close[0])
         self.order = self.buy(
             data=self.datas[dataIn], size=temp)
-        print(str(dataIn)+" buying "+str(temp))
+        #print(str(dataIn)+" buying "+str(temp))
         self.shares = temp
         self.dataIndex = dataIn
         self.placed = True
 
     def sellAll(self):
-        # for i in range(len(self.datas)):
-        print(self.dataIndex)
-        print(self.shares)
-        # if(self.getposition(data=self.datas[i]).size > 0):
+        # print(self.dataIndex)
+        # print(self.shares)
         self.order = self.sell(
             data=self.datas[self.dataIndex], size=self.shares)
-        print(str(self.dataIndex)+" selling " +
-              str(self.shares))
+        # print(str(self.dataIndex)+" selling " +
+        #       str(self.shares))
         self.placed = False
 
     def next(self):
@@ -78,14 +65,13 @@ class strategyMomentum(bt.Strategy):
         if self.order:
             return
 
-        period = 3
-        print(str(self.placed)+str(len(self)))
+        period = 2
 
         if (self.placed == False):
             if(len(self) % period == 0):
-                self.buyAll()
+                self.buyAll(period)
         else:
-            # and self.datas[self.dataIndex].close[0] > self.position.price*1.1):
-            if(len(self) % period == (period-1) and self.datas[self.dataIndex].close[0] > self.position.price*1.1):
-                print("go sell")
+            if(len(self) % period == (period-1) and self.datas[self.dataIndex].close[0] > self.position.price*1.2):
                 self.sellAll()
+            # elif(len(self) >= (self.bar_executed + 252)):
+            #     self.sellAll()
