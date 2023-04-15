@@ -14,5 +14,9 @@ In terms of strategies we have:
   This strategy bascially buys once it hits the lowest price of the week and sells when it gets to the highest of the week and the price its profitable
 3) Core/Bob3:
   This one takes in consideration of both the average and period in factor of entering and exiting the market. 
+ 4) MR:
+  Improved version of core which gives less average but more mean revision comparisons.
+ 5) Momentum:
+  Takes in whole lis of symbols and buy the stock in their momentum (buy high and sell even higher). This only buys the highest momentum stock in the list provided.
 
 In the traderMain it has a runstrategy that can take in symbol, printEnable(to enable the printing of the results), plotMode(enable to plot the results for every symbol), starting cash amount, and comission (in percentage)
