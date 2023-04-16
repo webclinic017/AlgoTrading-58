@@ -45,7 +45,7 @@ def runStrategy(symbol, printEnable=False, plotMode=False, startDate='2010-01-01
         AnalyzerSuite, thestrats)
 
     outputs['Final Value'] = cerebro.broker.getvalue()
-    #outputs['Symbol'] = symbol
+    # outputs['Symbol'] = symbol
     return(outputs)
 
 
@@ -80,21 +80,21 @@ def runMomentum(list, printEnable=False, plotMode=False, cash=100000, comission=
         AnalyzerSuite, thestrats)
 
     outputs['Final Value'] = cerebro.broker.getvalue()
-    #outputs['Symbol'] = symbol
+    # outputs['Symbol'] = symbol
     return(outputs)
 
 
 def runTesting():
     start = time.time()
     list = ['ENB.TO', 'TD.TO', 'BN.TO', 'BNS.TO', 'SU.TO']
-    #list = ['TD.TO']
-    #readFile = open("./testing/sp500/sp500.txt", "r")
-    readFile = open("./testing/sample/sampleList2.txt", "r")
+    # list = ['TD.TO']
+    readFile = open("./testing/sp500/sp500.txt", "r")
+    #readFile = open("./testing/sample/sampleList2.txt", "r")
     list = readFile.read().split('\n')
     readFile.close()
 
-    #writeFile = open("./testing/sp500/results3.txt", "a")
-    writeFile = open("./testing/sample/resultSample.txt", "a")
+    writeFile = open("./testing/sp500/results5.txt", "a")
+    #writeFile = open("./testing/sample/resultSample.txt", "a")
 
     count = 1
 
@@ -148,9 +148,9 @@ def runTesting():
         newList = ['ACN', 'AET', 'AEE', 'AEP', 'AMT', 'AMGN', 'AON', 'ADP', 'BDX', 'BA', 'CB', 'CINF', 'CTAS', 'CLX', 'CMS', 'KO', 'COST', 'DHR', 'DRI', 'ECL', 'FISV', 'HD', 'HON', 'HRL',
                    'INTU', 'JNJ', 'LLY', 'MMC', 'MA', 'MKC', 'MSFT', 'MSI', 'NDAQ', 'NEE', 'NKE', 'NI', 'PEP', 'PGR', 'RSG', 'ROP', 'ROST', 'SYY', 'TRV', 'TJX', 'UNH', 'VZ', 'WEC', 'XEL', 'XYL']
 
-    #newList = ['ENB.TO', 'BN.TO', 'TD.TO', 'BNS.TO', 'SU.TO']
-    #newList = list
-    #newList = ['UNH', 'VZ', 'AEE', 'XEL', 'MSFT']
+    # newList = ['ENB.TO', 'BN.TO', 'TD.TO', 'BNS.TO', 'SU.TO']
+    # newList = list
+    # newList = ['UNH', 'VZ', 'AEE', 'XEL', 'MSFT']
     print(newList)
     start = time.time()
     result = runMomentum(newList, True, True)
@@ -162,9 +162,13 @@ def runTesting():
 
 if __name__ == '__main__':
     # runTesting()
-    #list = ['RY.TO', 'BN.TO', 'TD.TO', 'BNS.TO']
+    # list = ['RY.TO', 'BN.TO', 'TD.TO', 'BNS.TO']
+    # newList = ['ACN', 'AET', 'AEE', 'AEP', 'AMT', 'AMGN', 'AON', 'ADP', 'BDX', 'BA', 'CB', 'CINF', 'CTAS', 'CLX', 'CMS', 'KO', 'COST', 'DHR', 'DRI', 'ECL', 'FISV', 'HD', 'HON', 'HRL',
+    #            'INTU', 'JNJ', 'LLY', 'MMC', 'MA', 'MKC', 'MSFT', 'MSI', 'NDAQ', 'NEE', 'NKE', 'NI', 'PEP', 'PGR', 'RSG', 'ROP', 'ROST', 'SYY', 'TRV', 'TJX', 'UNH', 'VZ', 'WEC', 'XEL', 'XYL']
+    # for stock in newList:
+    #     print(stock)
     list = ['GFL.TO', 'SU.TO', 'ENB.TO', 'RY.TO', 'BN.TO', 'TD.TO', 'BNS.TO']
-    #list = ['BN.TO']
+    # list = ['BN.TO']
     print("starting...")
     endDate = datetime.datetime.today().strftime('%Y-%m-%d')
     # print(endDate)

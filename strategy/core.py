@@ -59,7 +59,10 @@ class strategyBob3(bt.Strategy):
         if not self.position:
             if(self.dataclose[0] <= self.lowest(days) and weekChange < -0.5):
                 temp = int(self.broker.get_cash()*0.98/self.dataclose[0])
-                self.order = self.buy(size=temp)
+                #self.order = self.buy(size=temp)
+                print("buying at..."+str(self.dataclose[0]))
         else:
             if(self.dataclose[0] > self.position.price*1.1 and self.dataclose[0] >= self.highest(days)):
+                self.order = self.sell(size=self.position.size)
+            elif(len(self) >= (self.bar_executed + 1)):
                 self.order = self.sell(size=self.position.size)
