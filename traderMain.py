@@ -167,10 +167,14 @@ if __name__ == '__main__':
     #            'INTU', 'JNJ', 'LLY', 'MMC', 'MA', 'MKC', 'MSFT', 'MSI', 'NDAQ', 'NEE', 'NKE', 'NI', 'PEP', 'PGR', 'RSG', 'ROP', 'ROST', 'SYY', 'TRV', 'TJX', 'UNH', 'VZ', 'WEC', 'XEL', 'XYL']
     # for stock in newList:
     #     print(stock)
-    list = ['GFL.TO', 'SU.TO', 'ENB.TO', 'RY.TO', 'BN.TO', 'TD.TO', 'BNS.TO']
+    list = ['GFL.TO', 'SU.TO', 'ENB.TO', 'RY.TO',
+            'BN.TO', 'TD.TO', 'BNS.TO', 'DOL.TO', 'MG.TO']
+
+    list = ['GFL.TO', 'SU.TO', 'ENB.TO', 'DOL.TO', 'MG.TO']
     # list = ['BN.TO']
     print("starting...")
     endDate = datetime.datetime.today().strftime('%Y-%m-%d')
+    print(endDate)
     # print(endDate)
     startDate = datetime.datetime.today() - datetime.timedelta(days=6*30)
     # print(startDate)
