@@ -170,7 +170,7 @@ if __name__ == '__main__':
     list = ['GFL.TO', 'SU.TO', 'ENB.TO', 'RY.TO',
             'BN.TO', 'TD.TO', 'BNS.TO', 'DOL.TO', 'MG.TO']
 
-    list = ['GFL.TO', 'SU.TO', 'ENB.TO', 'DOL.TO', 'MG.TO']
+    #list = ['GFL.TO', 'SU.TO', 'ENB.TO', 'DOL.TO', 'MG.TO']
     # list = ['BN.TO']
     print("starting...")
     endDate = datetime.datetime.today().strftime('%Y-%m-%d')
